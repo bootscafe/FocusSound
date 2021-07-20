@@ -1,0 +1,20 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: "Helvetica", "Noto Sans JP",sans-serif;
+	line-height: 1.5;
+	color: #000;
+	background-color: transparent;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-feature-settings: "palt";
+	font-feature-settings: "palt";
+	font-size: 10px;
+	font-size: 1.0rem;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-justify: inter-ideograph;
+	overflow-x: hidden;
+}
