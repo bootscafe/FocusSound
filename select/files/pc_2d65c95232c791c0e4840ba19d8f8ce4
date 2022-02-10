@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>lycoriscoris「冷たい空気にとけ込む音楽」</title>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<link href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="/css/styles.css" rel="stylesheet">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+<script defer data-domain="focussound.jp" src="https://plausible.io/js/plausible.js"></script>
+</head>
+<body class="transition-none">
+<div class="container page">
+<div class="container-wrap">
+<div class="mobile-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mobile-btn" id="js-menu-open">
+<span></span> <span></span> <span></span>
+</div><a class="logo" href="/">FocusSound</a>
+</div>
+</div>
+</div>
+<div class="container-wrap--dummy"></div>
+<div class="top-panel" id="js-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mode-check">
+<input class="mode-checkbox-input" id="mode-checkbox" type="checkbox"> <label class="mode-checkbox-label" data-dark-title="Dark Mode" data-light-title="Light Mode" for="mode-checkbox"></label>
+</div>
+<div class="wrap-center">
+<a class="logo" href="/">FocusSound</a>
+<div class="menu" id="js-menu">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+</div>
+</div>
+
+<div class="page-wrap">
+<div class="page-wrap-content">
+
+<div class="breadcrumbs">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<a href="/">Home</a> / <a href="/select/">Select</a> / <span class="current">lycoriscoris「冷たい空気にとけ込む音楽」</span>
+</div>
+</div>
+</div>
+
+<div class="post-single-wrap sticky-parent">
+
+<div class="share-block">
+<div class="share-block-main js-share-block-main">
+<div class="socials">
+<a onclick="window.open('https://www.facebook.com/share.php?u=https://focussound.jp/select/2011/11/lycoriscoris.html', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Facebook">
+<span class="soc-icon"><img src="/img/facebook-icon.svg" class="img-svg" alt=""></span>
+</a>
+<a onclick="window.open('https://twitter.com/share?url=https://focussound.jp/select/2011/11/lycoriscoris.html&via=focussound&text=', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Twitter">
+<span class="soc-icon">
+<img src="/img/twitter-soc-icon.svg" class="img-svg" alt="">
+</span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="single-header">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<div class="post-tags">
+<a href="https://focussound.jp/select/selector/" class="tag">セレクター</a><a href="https://focussound.jp/select/life/" class="tag">生活</a>
+</div>
+<h1 class="page-title">lycoriscoris「冷たい空気にとけ込む音楽」</h1>
+<div class="post-info">
+<div class="post-date post-info-date">13 Nov 2011</div>
+</div>
+<div class="post-description">
+<p>
+今年も終わりが近づいて来ましたが、寒い冬を迎えるにあたって何か準備はされていますでしょうか。今回は11月11日に「from beyond the horizon」をリリースしたばかりの「lycoriscoris」さんに「冷たい空気にとけ込む音楽」をテーマに音楽をセレクトしていただきました。季節にあった素晴らしいセレクトをお楽しみください。また、lycoriscorisさんは11月17日に行われる「PROGRESSIVE FOrM showcase 2011」に出演予定のアーティストです。
+</p>
+</div>
+<div class="post-image-large wide">
+<img src="https://focussound.jp/select/upload/lycoriscoris.jpg" alt="">
+<span class="caption-text">lycoriscoris</span>
+</div>
+</div>
+</div>
+</div>
+
+<div class="single-content wp-content">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+
+
+
+<a href="https://focussound.jp/review/2011/11/things-we-lost-in-the-fire.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/thingswelost.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Things We Lost In the Fire</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Low</span>
+</div>
+</div>
+</a>
+<p>決して輝きを失うことのない美しいメロディーとコーラスワーク。ミニマルな詞とバンドサウンド、たったそれだけで奏でられる至上の歌が優しく語りかけてくれます。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000058DX3/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000058DX3" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Things We Lost In the Fire-Low']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fthings-we-lost-in-the-fire%252Fid200813550%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Things We Lost In the Fire-Low']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2011/11/understanding-wildlife.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/understanding.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Understanding Wildlife</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Shuttle358</span>
+</div>
+</div>
+</a>
+<p>Dan Abrams氏によるプロジェクト、Shuttle 358。クリック、ノイズ、グリッチ、それらがほとんど完璧といっていいくらい綿密にレイアウトされていながらも、どこか暖かみを内包した音のマフラー。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000076EX5/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000076EX5" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Understanding Wildlife-Shuttle358']);" target="_blank">Amazon</a>
+
+</div>
+
+
+
+<a href="https://focussound.jp/review/2011/11/to-the-little-radio.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/tothelittleradio.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">TO THE LITTLE RADIO</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Helge Lien Trio</span>
+</div>
+</div>
+</a>
+<p>冷たい空気にとけ込むというより冬の室内の、それも暖炉のような暖かさを感じるアルバムです。3人のアドリブが長年連れ添った恋人の会話のように寡黙に丁寧に紡がれます。Bill EvansとStan Getzで有名なGrandfathers Waltzのアレンジは秀逸！</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000F6YT9C/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000F6YT9C" onClick="_gaq.push(['_trackEvent', 'Amazon', 'TO THE LITTLE RADIO-Helge Lien Trio']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fto-the-little-radio%252Fid159352108%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'TO THE LITTLE RADIO-Helge Lien Trio']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2011/11/without-sinking.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/withoutsinking.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Without Sinking</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Hildur Gudnadottir</span>
+</div>
+</div>
+</a>
+<p>mumを中心に様々なユニット、バンドで活躍するチェリスト、Hildur Guðnadóttirのソロアルバム。チェロの幽玄な響きは冬の静寂に美しく溶け込んで、瞑想的な世界を演出してくれます。タルコフスキーの映画にでてきそうなジャケットも魅力的。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B001T6KM8Y/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B001T6KM8Y" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Without Sinking-Hildur Gudnadottir']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fwithout-sinking%252Fid306767175%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Without Sinking-Hildur Gudnadottir']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/09/dok.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/dok.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Dok</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Oval</span>
+</div>
+</div>
+</a>
+<p>朝でも昼でも夕方でもない時間。穏やかな海の沖合。魚たちやわずかな潮の流れのせいで沈まず浮上せずある一定の位置にゆらゆらとサスペンドしているようなイメージ。無作為なようで実は個々のサウンドスケープが1つの流れを持っていて、そういった音作りは昔も今も勉強させてもらっています。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000004B3G?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000004B3G" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Dok-Oval']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fdok%252Fid5507109%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Dok-Oval']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2011/11/chicago-underground-quartet.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/cugq.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Chicago Underground Quartet</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Chicago Underground Quartet</span>
+</div>
+</div>
+</a>
+<p>アルバムを通して描かれるストーリーがとても官能的。一人を堪能するには十分すぎるほどの上質なショートフィルムです。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B00005JCIB/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B00005JCIB" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Chicago Underground Quartet-Chicago Underground Quartet']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fchicago-underground-quartet%252Fid5509764%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Chicago Underground Quartet-Chicago Underground Quartet']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/04/the-safety-of-the-north.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/thesafty.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">The Safety of the North</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Last Days</span>
+</div>
+</div>
+</a>
+<p>Graham Richardson氏によるソロプロジェクトの3ndアルバム。北の島に引っ越した少女とその家族の話をテーマにしたコンセプトアルバムとのことで、音楽が自然に風景に馴染みます。日常を少しだけドラマティックに彩ってくれる美しいフォークトロニカ作品です。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B001T46UNW?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B001T46UNW" onClick="_gaq.push(['_trackEvent', 'Amazon', 'The Safety of the North-Last Days']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://itunes.apple.com/jp/album/the-safety-of-the-north/id304952331?uo=4&at=10lcnA" onClick="_gaq.push(['_trackEvent', 'iTunes', 'The Safety of the North-Last Days']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2011/11/last-supper.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/lastsupper.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Last Supper</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Food</span>
+</div>
+</div>
+</a>
+<p>ノルウェーのジャズ・エクスペリメンタルレーベル、rune grammofonよりThe FoodのLast Supper。たったの一音で、息づかいの一つで空気を変えてしまう音楽はやっぱり素敵です。とにかく大好きな作品です。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B0006GVJHQ/ref=as_li_tf_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B0006GVJHQ" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Last Supper-Food']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Flast-supper%252Fid297758945%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Last Supper-Food']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+
+
+
+<div class="see-also-section section">
+<div class="wrap">
+<div class="wrap_float">
+<h2 class="title">Related Posts</h2>
+<div class="section-content">
+<div class="see-also-items">
+<a href="https://focussound.jp/select/2016/11/amimori.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shoheiamimori.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">網守 将平が選ぶ「暖もとれる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+25 Nov 2016
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2016/01/fraqsea.html" class="post-item">
+<img src="https://focussound.jp/select/upload/fraqsea.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">fraqseaが選ぶ「旅路に寄り添う音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+15 Jan 2016
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/10/post-102.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yumiyashita.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yu Miyashitaが選ぶ「日本に眠るエメラルド色の金剛石」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Oct 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/04/post-2.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shotahirama2014.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">ノイズと小説、例えばアヒム・ヴォルヘイドとシオドア・スタージョン</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+17 Apr 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/01/post-1.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yukimatsumura.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yuki Matsumuraが選ぶ「遠く離れた地で聴きたい音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+14 Jan 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2014/07/lastorder.html" class="post-item">
+<img src="https://focussound.jp/select/upload/lastorder.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">LASTorderが選ぶ「心を落ち着けたい時に聴くアルバム」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+08 Jul 2014
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/henrytennis.html" class="post-item">
+<img src="https://focussound.jp/select/upload/henrrytennis.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">henrytennisが選ぶ「自然を感じる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+26 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/kan-sano.html" class="post-item">
+<img src="https://focussound.jp/select/upload/kansano.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">Kan Sanoが選ぶ「深夜に聴く、瞑想のためのソロピアノ」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/m-koda.html" class="post-item">
+<img src="https://focussound.jp/select/upload/m-koda.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">M-Kodaが選ぶ「風景を連想させ、情緒的になるための音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+11 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/04/post-101.html" class="post-item">
+<img src="https://focussound.jp/select/upload/moshimoss.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">ドライブ</div>
+</div>
+<h3 class="post-title">moshimossが選ぶ「夜明け前後の高速道路を走るときに聴く音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+24 Apr 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/02/geskia.html" class="post-item">
+<img src="https://focussound.jp/select/upload/geskia.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Geskia!が選ぶ「夜道を歩きながら聴く音楽」 </h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+10 Feb 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2012/12/shotahirama.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shotahirama2014.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">shotahiramaが選ぶ「壊れた世界に響く音が感じられる悪趣味な8枚」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+02 Dec 2012
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div class="footer">
+<div class="wrap">
+<div class="wrap_float">
+<div class="footer-content">
+<div class="logo">FocusSound</div>
+<div class="wrap-center">
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/checkmode.js"></script> 
+<script src="/js/slick.min.js"></script> 
+<script src="/js/jquery.arcticmodal.min.js"></script> 
+<script src="/js/lightgallery.js"></script> 
+<script src="/js/jquery.mousewheel.min.js"></script> 
+<script src="/js/device.min.js"></script> 
+<script src="/js/jquery.placeholder.label.js"></script> 
+<script src="/js/jquery-ui.min.js"></script> 
+<script src="/js/scripts.js"></script>
+
+</body>
+</html>

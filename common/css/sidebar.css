@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+#sidebar {padding:0 0 20px 0;}
+
+#sidebar ul {margin-left:10px;}
+#sidebar ul li {font-size:16px;letter-spacing:1px;list-style: none;margin-bottom:5px;}
+#sidebar ul li:last-child {margin-bottom: 0;}
+#sidebar ul li a {background:url(/common/img/parts/cusor.gif) no-repeat 0 center;padding-left:10px;}
+#sidebar .list {margin:25px 0;}
+#sidebar #s-special {margin:0 0 15px 0;}
+#sidebar .list strong {font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;font-size:24px;font-weight:bold;margin-bottom:20px;border-bottom:1px solid #EEE;padding-bottom:10px;}
+
+#sidebar #glam-side {margin:0 0 15px 0;}
+#sidebar .special {margin:0 0 5px 0;}
+
+#likebox {margin-bottom:15px;}
+
+#sidebar #News {border:1px solid #CCC;padding:15px;margin-bottom:15px;}
+#sidebar #News strong {line-height:21px;text-align:right;display:block;background:url(/common/img/side/news.gif) no-repeat 0 0;padding:0 0 10px 0;border-bottom:1px solid #EEE;}
+#sidebar #News strong a {margin-top:5px;font-size:11px;}
+#sidebar dl {margin:10px 0;border-bottom:1px solid #EEE;padding:0 10px 10px 10px;}
+#sidebar dl.last {border-bottom:none;padding-bottom:0;}
+#sidebar dl dt {width:60px;}
+#sidebar dl dt a img {width:60px;}
+#sidebar dl dd span {font-size:11px;}
+#sidebar dl dd {float:right;width:168px;}
+
+#specialbanner {margin:0 0 30px 0;}
+#ranking {margin:30px 0;}
+#ranking.home {margin-top:0;}
+#ranking h2 {font-family:times;font-size:24px;line-height:24px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:20px;}
+#ranking h2 span {background-color:#FFF;padding-right:20px;}
+#ranking ol {margin:0 0 0 35px;}
+#ranking li {margin:0 0 6px 0;list-style-position:outside;padding:0 0 0 15px;}
+
+#ranking dl {margin:0;padding:5px;}
+#ranking dl dt {float:left;width:30px;}
+#ranking dl dt a img {width:30px;}
+#ranking dl dd {float:right;width:250px;}
+
+#sidebar span.new a {background:url(/common/img/parts/new.gif) no-repeat right 1px;padding:0 30px 0 0;}
+
+#sidebar iframe img {width:198px;}
+#tagcloud {margin:40px 0 0 0;background:url(/common/img/side/tags.gif) no-repeat top left;padding:30px 0 0 0;}
+#tagcloud span {line-height:220%;padding:10px 0;margin:0 15px 0 0;}
+#tagcloud span.tag1 {font-size: 17px;}
+#tagcloud span.tag2 {font-size: 13px;}
+#tagcloud span.tag3 {font-size: 11px;}
+#tagcloud span.tag4 {font-size: 9px;letter-spacing:1px;}
+#tagcloud span.tag5 {font-size: 7px;letter-spacing:1px;}
+#tagcloud span.tag6 {font-size: 5px;letter-spacing:1px;}
+#tagcloud .reviewtag {margin:0 5px;}
+
+.brash {margin:40px 0 0 0;}

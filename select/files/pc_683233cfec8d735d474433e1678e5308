@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>fraqseaが選ぶ「旅路に寄り添う音楽」</title>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<link href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="/css/styles.css" rel="stylesheet">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+<script defer data-domain="focussound.jp" src="https://plausible.io/js/plausible.js"></script>
+</head>
+<body class="transition-none">
+<div class="container page">
+<div class="container-wrap">
+<div class="mobile-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mobile-btn" id="js-menu-open">
+<span></span> <span></span> <span></span>
+</div><a class="logo" href="/">FocusSound</a>
+</div>
+</div>
+</div>
+<div class="container-wrap--dummy"></div>
+<div class="top-panel" id="js-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mode-check">
+<input class="mode-checkbox-input" id="mode-checkbox" type="checkbox"> <label class="mode-checkbox-label" data-dark-title="Dark Mode" data-light-title="Light Mode" for="mode-checkbox"></label>
+</div>
+<div class="wrap-center">
+<a class="logo" href="/">FocusSound</a>
+<div class="menu" id="js-menu">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+</div>
+</div>
+
+<div class="page-wrap">
+<div class="page-wrap-content">
+
+<div class="breadcrumbs">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<a href="/">Home</a> / <a href="/select/">Select</a> / <span class="current">fraqseaが選ぶ「旅路に寄り添う音楽」</span>
+</div>
+</div>
+</div>
+
+<div class="post-single-wrap sticky-parent">
+
+<div class="share-block">
+<div class="share-block-main js-share-block-main">
+<div class="socials">
+<a onclick="window.open('https://www.facebook.com/share.php?u=https://focussound.jp/select/2016/01/fraqsea.html', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Facebook">
+<span class="soc-icon"><img src="/img/facebook-icon.svg" class="img-svg" alt=""></span>
+</a>
+<a onclick="window.open('https://twitter.com/share?url=https://focussound.jp/select/2016/01/fraqsea.html&via=focussound&text=', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Twitter">
+<span class="soc-icon">
+<img src="/img/twitter-soc-icon.svg" class="img-svg" alt="">
+</span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="single-header">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<div class="post-tags">
+<a href="https://focussound.jp/select/selector/" class="tag">セレクター</a>
+</div>
+<h1 class="page-title">fraqseaが選ぶ「旅路に寄り添う音楽」</h1>
+<div class="post-info">
+<div class="post-date post-info-date">15 Jan 2016</div>
+</div>
+<div class="post-description">
+<p>
+シューゲイザーファン必見！新作「Star Cocktail」をリリースする「fraqsea」さんに旅路をテーマにして作品をセレクトしていただきました。
+</p>
+</div>
+<div class="post-image-large wide">
+<img src="https://focussound.jp/select/upload/fraqsea.jpg" alt="">
+<span class="caption-text">fraqsea</span>
+</div>
+</div>
+</div>
+</div>
+
+<div class="single-content wp-content">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+
+
+
+<a href="https://focussound.jp/review/2016/01/a-tribute-to-brother-weldon.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/aTributetobrotherweldon.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">A Tribute To Brother Weldon</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Monk Hughes & The Outer Realm</span>
+</div>
+</div>
+</a>
+<p>無機質なビル群を眺めながら。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B0002CX1IY/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B0002CX1IY&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'A Tribute To Brother Weldon-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/tribute-to-brother-weldon/id79766002?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'A Tribute To Brother Weldon-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/wander.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/wander.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Wander</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Balam Acab</span>
+</div>
+</div>
+</a>
+<p>透きとおった海の中を泳ぐ。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B005FI5V56/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B005FI5V56&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Wander-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/wander-wonder/id517519430?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Wander-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/shelter.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/shelter1.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Shelter</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Moiré</span>
+</div>
+</div>
+</a>
+<p>朝方のドライブ。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B00LC1DH4M/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00LC1DH4M&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Shelter-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/shelter/id885760142?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Shelter-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/turkish-berlina.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/turkishberlina.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Turkish Berlina</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Muslimgauze</span>
+</div>
+</div>
+</a>
+<p>カオスな街をひたすら歩く。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B00GAZPH7U/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00GAZPH7U&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Turkish Berlina-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/turkish-berlina/id902776885?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Turkish Berlina-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/playing-with-fire.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/playingwithfire.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Playing With Fire</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Spacemen 3</span>
+</div>
+</div>
+</a>
+<p>荒野に寝転がる。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B00000IPKN/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00000IPKN&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Playing With Fire-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/playing-fire-double-disc-version/id251281873?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Playing With Fire-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/life-is-full-of-possibilities.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/lifeisfullofpossibilities.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Life Is Full of Possibilities</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Dntel</span>
+</div>
+</div>
+</a>
+<p>雨上がりに訪れた花畑の情景。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B005KVLGWK/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B005KVLGWK&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Life Is Full of Possibilities-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/life-is-full-possibilities/id466598994?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Life Is Full of Possibilities-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/kenotic.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/kenotic.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Kenotic</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Hammock</span>
+</div>
+</div>
+</a>
+<p>人気のない駅で列車を待っている時に。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B0008G2IIS/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B0008G2IIS&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Kenotic-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/kenotic-10th-anniversary-deluxe/id1030016688?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Kenotic-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2016/01/jatun.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/OE004.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Jatun</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Jatun</span>
+</div>
+</div>
+</a>
+<p>突然風が吹くような。 </p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B004O0UOP8/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B004O0UOP8&linkCode=as2&tag=bootscafe-22" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Jatun-']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="https://geo.itunes.apple.com/jp/album/jatun/id214802139?at=10lcnA&app=itunes" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Jatun-']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+
+
+
+<div class="see-also-section section">
+<div class="wrap">
+<div class="wrap_float">
+<h2 class="title">Related Posts</h2>
+<div class="section-content">
+<div class="see-also-items">
+<a href="https://focussound.jp/select/2016/11/amimori.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shoheiamimori.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">網守 将平が選ぶ「暖もとれる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+25 Nov 2016
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2016/01/fraqsea.html" class="post-item">
+<img src="https://focussound.jp/select/upload/fraqsea.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">fraqseaが選ぶ「旅路に寄り添う音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+15 Jan 2016
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/10/post-102.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yumiyashita.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yu Miyashitaが選ぶ「日本に眠るエメラルド色の金剛石」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Oct 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/04/post-2.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shotahirama2014.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">ノイズと小説、例えばアヒム・ヴォルヘイドとシオドア・スタージョン</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+17 Apr 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2015/01/post-1.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yukimatsumura.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yuki Matsumuraが選ぶ「遠く離れた地で聴きたい音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+14 Jan 2015
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2014/07/lastorder.html" class="post-item">
+<img src="https://focussound.jp/select/upload/lastorder.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">LASTorderが選ぶ「心を落ち着けたい時に聴くアルバム」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+08 Jul 2014
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/henrytennis.html" class="post-item">
+<img src="https://focussound.jp/select/upload/henrrytennis.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">henrytennisが選ぶ「自然を感じる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+26 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/kan-sano.html" class="post-item">
+<img src="https://focussound.jp/select/upload/kansano.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">Kan Sanoが選ぶ「深夜に聴く、瞑想のためのソロピアノ」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/06/m-koda.html" class="post-item">
+<img src="https://focussound.jp/select/upload/m-koda.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">M-Kodaが選ぶ「風景を連想させ、情緒的になるための音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+11 Jun 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/04/post-101.html" class="post-item">
+<img src="https://focussound.jp/select/upload/moshimoss.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">ドライブ</div>
+</div>
+<h3 class="post-title">moshimossが選ぶ「夜明け前後の高速道路を走るときに聴く音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+24 Apr 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2013/02/geskia.html" class="post-item">
+<img src="https://focussound.jp/select/upload/geskia.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Geskia!が選ぶ「夜道を歩きながら聴く音楽」 </h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+10 Feb 2013
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2012/12/shotahirama.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shotahirama2014.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">shotahiramaが選ぶ「壊れた世界に響く音が感じられる悪趣味な8枚」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+02 Dec 2012
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div class="footer">
+<div class="wrap">
+<div class="wrap_float">
+<div class="footer-content">
+<div class="logo">FocusSound</div>
+<div class="wrap-center">
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/checkmode.js"></script> 
+<script src="/js/slick.min.js"></script> 
+<script src="/js/jquery.arcticmodal.min.js"></script> 
+<script src="/js/lightgallery.js"></script> 
+<script src="/js/jquery.mousewheel.min.js"></script> 
+<script src="/js/device.min.js"></script> 
+<script src="/js/jquery.placeholder.label.js"></script> 
+<script src="/js/jquery-ui.min.js"></script> 
+<script src="/js/scripts.js"></script>
+
+</body>
+</html>

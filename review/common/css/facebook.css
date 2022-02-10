@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+body {
+font-size:12px;
+color:#696969;
+line-height:160%;
+background-color:#FFF;
+height:100%;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+#wrapper {width:100%;}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,p {margin: 0;padding: 0;}
+
+a {color:#000;text-decoration: none;}
+a:hover {color:#cb2421;}
+a:hover img{opacity:0.7;filter: alpha(opacity=70);}
+
+address,caption,cite,code,dfn,h1,h2,h3,h4,th,var,strong {
+    font-style: normal;
+    font-weight: normal;
+}
+
+img {
+    border: none;
+    vertical-align: bottom;
+    margin:0;
+    padding:0;
+}
+
+img a:link { text-decoration: none; }
+img a:hover { text-decoration: none; }
+
+ul,ol,dl{
+    margin:0;
+    padding:0;
+}
+
+
+li,dt,dd{
+    margin:0;
+    padding:0;
+    list-style:none none outside;
+    font-size: 100%;
+}
+
+ol li {list-style:decimal inside;}
+dl dt,dl dd {float:left;}
+
+/* ----------------------------------- Clearfix */
+
+.clear:after {
+   content: ".";
+   display: block;
+   clear: both;
+   height: 0;
+   visibility: hidden;
+   line-height:0;
+}
+.clear { display: inline-block; }
+* html .clear { height: 1%; }
+.clear { display: block; }
+
+
+h1 {font-size:10px;margin:0 0 20px 0;}
+
+
+#select {padding:60px 0 0 0;background:url(../img/facebook_select.gif) no-repeat top left;}
+#feature {margin:20px 0 0 0;padding:60px 0 0 0;background:url(../img/facebook_feature.gif) no-repeat top left;}
+#regular ul {margin:0 0 0 10px;width:120px;float:left;height:185px;}
+#regular li h2 {font-size:12px;margin-bottom:20px;font-size:10px;}
+#regular li img {width:120px;}
+
+.more a {background-color:#cb2421;padding:5px 10px;display:block;color:#FFF;text-align:center!important;}

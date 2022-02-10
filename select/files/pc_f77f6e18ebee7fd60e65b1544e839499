@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>セレクターをテーマにした音楽セレクト | FocusSound</title>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<link href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="/css/styles.css" rel="stylesheet">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+<script defer data-domain="focussound.jp" src="https://plausible.io/js/plausible.js"></script>
+</head>
+<body class="transition-none">
+<div class="container page">
+<div class="container-wrap">
+<div class="mobile-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mobile-btn" id="js-menu-open">
+<span></span> <span></span> <span></span>
+</div><a class="logo" href="/">FocusSound</a>
+</div>
+</div>
+</div>
+<div class="container-wrap--dummy"></div>
+<div class="top-panel" id="js-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mode-check">
+<input class="mode-checkbox-input" id="mode-checkbox" type="checkbox"> <label class="mode-checkbox-label" data-dark-title="Dark Mode" data-light-title="Light Mode" for="mode-checkbox"></label>
+</div>
+<div class="wrap-center">
+<a class="logo" href="/">FocusSound</a>
+<div class="menu" id="js-menu">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+</ul>
+</div>
+</div>
+<div class="search-button"></div>
+</div>
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+<div class="menu-close" id="js-menu-close"></div>
+</div>
+</div>
+
+<div class="page-wrap archive-page with-sidebar">
+<div class="breadcrumbs">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<a href="/">Home</a> / <a href="/select/">Select</a> / <span class="current">セレクター</span>
+</div>
+</div>
+</div>
+
+<div class="archive-header">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<div class="title-wrap">
+<h1 class="page-title">Select</h1>
+<div class="posts-count">
+63 Posts
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="archive-body">
+<div class="wrap">
+<div class="page-wrap-content">
+<div class="post-items-list posts-grid">
+
+
+<a href="https://focussound.jp/select/2016/11/amimori.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shoheiamimori.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">網守 将平が選ぶ「暖もとれる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+25 Nov 2016
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2016/01/fraqsea.html" class="post-item">
+<img src="https://focussound.jp/select/upload/fraqsea.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">fraqseaが選ぶ「旅路に寄り添う音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+15 Jan 2016
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2015/10/post-102.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yumiyashita.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yu Miyashitaが選ぶ「日本に眠るエメラルド色の金剛石」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Oct 2015
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2015/04/post-2.html" class="post-item">
+<img src="https://focussound.jp/select/upload/shotahirama2014.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">ノイズと小説、例えばアヒム・ヴォルヘイドとシオドア・スタージョン</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+17 Apr 2015
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2015/01/post-1.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yukimatsumura.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Yuki Matsumuraが選ぶ「遠く離れた地で聴きたい音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+14 Jan 2015
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2014/07/lastorder.html" class="post-item">
+<img src="https://focussound.jp/select/upload/lastorder.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">LASTorderが選ぶ「心を落ち着けたい時に聴くアルバム」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+08 Jul 2014
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2013/06/henrytennis.html" class="post-item">
+<img src="https://focussound.jp/select/upload/henrrytennis.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">henrytennisが選ぶ「自然を感じる音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+26 Jun 2013
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2013/06/kan-sano.html" class="post-item">
+<img src="https://focussound.jp/select/upload/kansano.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">Kan Sanoが選ぶ「深夜に聴く、瞑想のためのソロピアノ」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+21 Jun 2013
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2013/06/m-koda.html" class="post-item">
+<img src="https://focussound.jp/select/upload/m-koda.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">感情</div>
+</div>
+<h3 class="post-title">M-Kodaが選ぶ「風景を連想させ、情緒的になるための音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+11 Jun 2013
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2013/04/post-101.html" class="post-item">
+<img src="https://focussound.jp/select/upload/moshimoss.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">ドライブ</div>
+</div>
+<h3 class="post-title">moshimossが選ぶ「夜明け前後の高速道路を走るときに聴く音楽」</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+24 Apr 2013
+</div>
+</div>
+</a>
+
+
+<a href="https://focussound.jp/select/2013/02/geskia.html" class="post-item">
+<img src="https://focussound.jp/select/upload/geskia.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div>
+</div>
+<h3 class="post-title">Geskia!が選ぶ「夜道を歩きながら聴く音楽」 </h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+10 Feb 2013
+</div>
+</div>
+</a>
+
+</div>
+
+
+<div class="pagination">
+<div class="pagination-links">
+<a href="https://focussound.jp/select/selector/index.html" class="pag-link current">1</a>
+
+
+
+<a href="https://focussound.jp/select/selector/index_2.html" class="pag-link">2</a>
+
+
+
+<a href="https://focussound.jp/select/selector/index_3.html" class="pag-link">3</a>
+
+
+
+<a href="https://focussound.jp/select/selector/index_4.html" class="pag-link">4</a>
+
+
+
+<a href="https://focussound.jp/select/selector/index_5.html" class="pag-link">5</a>
+<span class="pag-link extend">...</span>
+<a href="https://focussound.jp/select/index_6.html" class="pag-link">6</a>
+
+</div>
+</div>
+</div>
+
+
+<div class="page-wrap-sidebar">
+<div class="sidebar">
+<div class="sidebar-item widget_categories">
+<h3 class="sidebar-item-title">Categories</h3>
+<ul>
+
+<li class="cat-item"><a href="https://focussound.jp/select/place/">場所</a> (22)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/life/">生活</a> (54)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/drive/">ドライブ</a> (9)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/walking/">ジョギング・ウォーキング</a> (4)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/feeling/">感情</a> (27)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/wedding/">結婚式・披露宴</a> (3)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/time/">時間</a> (20)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/memory/">記録</a> (1)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/weather/">天気</a> (11)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/selector/">セレクター</a> (63)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/meal/">食事</a> (6)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/work/">仕事・勉強・作業</a> (10)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/bgm/">お店・施設BGM</a> (3)</li>
+
+<li class="cat-item"><a href="https://focussound.jp/select/event/">イベント</a> (1)</li>
+
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="footer">
+<div class="wrap">
+<div class="wrap_float">
+<div class="footer-content">
+<div class="logo">FocusSound</div>
+<div class="wrap-center">
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/checkmode.js"></script> 
+<script src="/js/slick.min.js"></script> 
+<script src="/js/jquery.arcticmodal.min.js"></script> 
+<script src="/js/lightgallery.js"></script> 
+<script src="/js/jquery.mousewheel.min.js"></script> 
+<script src="/js/device.min.js"></script> 
+<script src="/js/jquery.placeholder.label.js"></script> 
+<script src="/js/jquery-ui.min.js"></script> 
+<script src="/js/scripts.js"></script>
+
+</body>
+</html>

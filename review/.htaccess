@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+##
+## DynamicMTML generated this part; don't remove this line! ##
+## <version>2.11</version>
+## <bootstrapper>.mtview.php</bootstrapper>
+
+Options -Indexes
+DirectoryIndex /review/.mtview.php
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d [OR]
+#  RewriteCond %{REQUEST_FILENAME} !/mt-static/html/editor-content\.html$ [NC]
+#  RewriteCond %{REQUEST_FILENAME} !/mt-static/html/blank\.html$ [NC]
+  RewriteCond %{REQUEST_FILENAME} ^[^.]+$|\.(html|mtml|HTML|MTML)$ [NC]
+  RewriteRule ^ /review/.mtview.php [L]
+</IfModule>
+<IfModule !mod_rewrite.c>
+  Order Deny,Allow
+  Deny from all
+<FilesMatch (^(|[^.]+)|.mtview.php)$>
+  Allow from all
+</FilesMatch>
+  ErrorDocument 403 /review/.mtview.php
+  ErrorDocument 404 /review/.mtview.php
+</IfModule>
+php_flag short_open_tag off
+## DynamicMTML generated this part; don't remove this line! /DynamicMTML ##

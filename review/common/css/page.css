@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+#page-body h2 {font-family:times;font-size:62px;line-height:62px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+#page-body h2 span {background-color:#FFF;padding-right:20px;}
+
+#page-body h3 {font-weight:bold;font-size:28px;font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;}
+
+#page-body {font-size:16px;}
+
+#page-body h3,
+#page-body ol,
+#page-body ul,
+#page-body p {margin-bottom: 40px;}
+
+#page-body ol,
+#page-body ul {
+	margin-left: 20px;
+}
+
+#page-body ol li {
+	list-style: decimal outside;
+	margin-bottom: 40px;
+}
+
+#page-body ul li {
+	list-style: square outside;
+	margin-bottom: 40px;
+}
+
+#page-body table {width:100%;margin-top:50px;border-collapse: collapse;}
+#page-body table th {font-weight:bold;text-align:left;width:30%;}
+#page-body table td {width:70%;}
+#page-body table th,table td {letter-spacing:1px;padding:1.5em;vertical-align:top;}
+
+#page-body table tr:nth-child(even) {background-color:#F2F2F2;}
+#page-body table td ul,
+#page-body table td ul li {margin-bottom: 0;}
+
+
+
+
+#contact p {margin:20px 0;}
+
+.policy {margin:40px 0;}
+.policy p {margin:20px 0 0 0;font-size:14px;line-height:24px;}
+
+#tieup {background-color:#000;text-align:center;margin-bottom:30px;}
+
+
+
+#form-list {margin-top:25px;padding:15px;border:1px solid #CCC;}
+#contact dl {border-bottom:1px solid #CCC;padding:15px 0;}
+#contact dl dt {width:180px;font-weight:bold;}
+#contact dl dd {width:463px;}
+#contact dl dt span {color:#cb2421;font-weight:bold;font-size:14px;margin-left:10px;}
+#contact dl dd input {border:1px solid #CCC;height:25px;line-height:25px;width:300px;}
+#contact dl dd textarea {border:1px solid #CCC;width:400px;height:225px;line-height:25px;}
+#contact .submit {margin:20px 0;text-align:center;}
+.ERR {color:#cb2421;font-weight:bold;}
+#alert {margin:0 0 30px 0;background-color:#cb2421;color:#FFF;font-weight:bold;font-size:14px;padding:10px;}
+#contact .lead {margin:30px 0 0 0;}
+#contact .lead strong {color:#696969;font-weight:bold;font-size:14px;}
+#contact .lead span {color:#cb2421;font-weight:bold;font-size:14px;margin-right:10px;}

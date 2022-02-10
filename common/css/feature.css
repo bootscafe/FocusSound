@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+#featuretop {margin-top:30px;}
+#featuretop h2 {font-family:times;font-size:62px;line-height:62px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+h2 span,strong span,h3 span {background-color:#FFF;padding-right:20px;}
+#featuretop #topside {width:895px;float:left;}
+#featuretop #topside dl dt {width:320px;}
+#featuretop #topside dl dd {width:575px;letter-spacing:1px;}
+#featuretop #topside dl dd strong {font-size:24px;font-weight:bold;}
+#featuretop #topside dl dd p {margin:30px 0 0 0;font-size:16px;}
+#featuretop #topside dl img {width:300px;}
+#featuretop #glamside {width:300px;float:right;}
+
+#featurelist {margin:40px 0 0 0;position:relative;letter-spacing:-.40em;}
+.featurecategory {margin:40px 0;letter-spacing:-.40em;}
+#featurelist h2,.featurecategory h2 {letter-spacing:0px;font-family:times;font-size:36px;line-height:36px;background:url(../img/parts/dot.gif) repeat-x 0 center;}
+
+#featurelist ul {box-sizing:border-box;padding:0 10px;vertical-align:top;letter-spacing:normal;width:25%;display:inline-block;margin-bottom:40px;}
+#featurelist ul li {text-align:center;list-style: none;}
+#featurelist ul li .img {border:1px solid #CCC;position:relative;width:80%;margin:auto;border-radius:100%;overflow:hidden;}
+#featurelist ul li img {width:100%;}
+#featurelist ul li strong {text-align:left;font-size:16px;margin-top:20px;}
+#allfeature{letter-spacing:normal;position:absolute;top:0;right:0;font-size:14px;}
+#allfeature a {display:block;color:#FFF;font-family:times;background:#cb2421 url(/common/img/parts/cusor_white.gif) no-repeat 10px center;padding-left:20px;padding:5px 20px;}
+#allfeature a:hover {background-color:#000;}
+#featurelist .list,.featurecategory .list {margin-top:50px;}
+
+.category {text-align:center;box-sizing:border-box;padding:0 10px;vertical-align:top;letter-spacing:normal;width:25%;display:inline-block;margin-bottom:40px;}
+.category li {list-style: none;}
+.category .img {border:1px solid #CCC;position:relative;width:80%;margin:auto;border-radius:100%;overflow:hidden;}
+.category .img img {width:100%;height:auto;}
+.category .img .count {position:absolute;width:100%;bottom:20px;left:0;text-align:center;}
+.category .img .count > span {border-radius:20px;font-size:16px;display:inline-block;padding:7px 20px;line-height:20px;background-color:rgba(0,0,0,0.6);color:#FFF;}
+.category strong {text-align:center;font-size:16px;margin-top:20px;display:block;}
+.category h3 a {background:url(/common/img/parts/cusor.gif) no-repeat 0 center;padding-left:10px;}
+
+.more {text-align:right;background-color:#cb2421;padding:5px 10px;}
+.more a {color:#FFF;margin:10px 0;background:url(/common/img/parts/cusor_white.gif) no-repeat 0 3px;padding:0 0 0 10px;}
+.more a:hover {color:#f47c7a;}
+
+#entry-body {margin-top: 40px;}
+
+#entry-body strong {
+	font-size: 36px;
+	font-weight: bold;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	border-top: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	line-height: 1;
+	padding: 20px;
+	margin-bottom: 40px;
+}
+
+
+#entry-body dl {
+	letter-spacing: -.40em;
+	margin-bottom: 40px;
+	padding:0 20px;
+}
+
+#entry-body dl dt,
+#entry-body dl dd {
+	display: inline-block;
+	box-sizing: border-box;
+	letter-spacing: normal;
+	vertical-align: top;
+}
+
+#entry-body dl dt {
+	width: 30%;
+}
+
+#entry-body dl dd {
+	width: 70%;
+}
+
+#entry-body dl dd h3,
+#entry-body dl dd h4 {
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+
+#entry-body dl dd p {
+	margin-bottom: 20px;
+}
+
+
+
+#tshirts {
+	letter-spacing: -.40em;
+}
+
+#oop {
+	letter-spacing: normal;
+}
+
+#oop > p:first-of-type {
+	margin: 40px 0;	
+}
+
+#oop > img {
+	display: block;
+	margin:20px auto;
+}
+
+#oop > p:nth-of-type(2) {
+	text-align: center;
+	margin:20px 0;
+}
+
+#oop > p:nth-of-type(3) {
+	margin: 20px 0;
+} 
+
+#tshirts ul {
+	display: inline-block;
+	width: 50%;
+	vertical-align: top;
+	letter-spacing: normal;
+	box-sizing: border-box;
+	padding: 0 20px;
+	margin-bottom: 30px;
+}
+
+#tshirts ul li {
+	list-style: none;
+}
+
+#tshirts ul li.photo {
+	text-align: center;
+}
+
+#tshirts ul li > strong {
+	font-size: 24px;
+	padding: 20px;
+	line-height: 1.5;
+}
+
+
+
+
+#relativefeature {margin:0 0 40px 0;letter-spacing:-.40em;}
+#relativefeature strong {letter-spacing:1px;font-size:36px;line-height:36px;font-family:times;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:40px;}
+#relativefeature ul {box-sizing:border-box;padding:0 5px;vertical-align:top;margin-bottom:20px;display:inline-block;width:25%;letter-spacing:1px;}
+#relativefeature ul li {list-style: none;}
+#relativefeature ul li:first-child {text-align: center;margin-bottom:10px;}
+#relativefeature ul img {max-width:100%;}

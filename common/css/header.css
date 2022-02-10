@@ -1,0 +1,101 @@
+@charset "utf-8";
+ 
+#uppernav {margin:12px 0 0 0;}
+#uppernav li {list-style:none;float:right;}
+#uppernav li.last a {margin:0;padding:0;border:none;}
+#uppernav li a {margin:0 10px 0 0;padding:0 10px 0 0;border-right:1px solid #000;}
+
+#header {margin-top:15px;}
+#header #logo {float:left;width:272px;}
+#header #logo img {width:202px;height:47px;}
+#header #headerglam {float:right;width:728px;}
+
+#lowerhead {margin:0;}
+#lowerhead #navigation,#lowerhead #socialb {float:left;}
+#lowerhead #search {float:right;width:450px;}
+
+#lowerhead #navigation {width:608px;margin-top:10px;}
+#lowerhead #navigation li {list-style:none;float:left;margin:0 38px 0 0;}
+#lowerhead #navigation li a {display:block;font-family:times;font-size:28px;line-height:1;}
+
+
+#lowerhead #socialb {width:157px;}
+#lowerhead #socialb li {list-style:none;float:left;margin:0 9px 0 0;}
+#lowerhead #socialb li a {text-indent:-9999px;display:block;}
+#lowerhead #socialb li.yahoo {width:13px;height:13px;}
+#lowerhead #socialb li.yahoo a {background:url(../img/parts/yahoo.gif) no-repeat bottom left;}
+#lowerhead #socialb li.rss {width:11px;height:11px;}
+#lowerhead #socialb li.rss a {background:url(../img/parts/rss.gif) no-repeat bottom left;}
+#lowerhead #socialb li.buzzurl {width:14px;height:12px;}
+#lowerhead #socialb li.buzzurl a {background:url(../img/parts/buzzurl.gif) no-repeat bottom left;}
+#lowerhead #socialb li.hatena {width:13px;height:10px;}
+#lowerhead #socialb li.hatena a {background:url(../img/parts/hatena.gif) no-repeat bottom left;}
+#lowerhead #socialb li.twitter {width:11px;height:13px;}
+#lowerhead #socialb li.twitter a {background:url(../img/parts/twitter.gif) no-repeat bottom left;}
+#lowerhead #socialb li.googlebadge {width:12px;height:12px;}
+#lowerhead #socialb li.googlebadge a {background:url(../img/parts/gplus.png) no-repeat bottom left;}
+#lowerhead #socialb li.hatena a {background:url(../img/parts/hatena.gif) no-repeat bottom left;}
+#lowerhead #socialb li.facebook {width:12px;height:12px;}
+#lowerhead #socialb li.facebook a {background:url(../img/parts/facebook.gif) no-repeat bottom left;}
+
+
+#lowerhead #search {padding-top:10px;}
+#lowerhead #search input {margin:0;float:left;display:block;}
+
+#lowerhead #search input#button-search {
+	width:100px;
+	float:left;
+	display:block;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-webkit-appearance:none;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-webkit-appearance:none;
+	appearance:none;
+	background-color: #000;
+	color: #FFF;
+	font-family: 'times';
+	line-height:38px;
+	height:38px;
+	box-sizing: border-box;
+	padding:0;
+	border:none;
+	font-size: 14px;
+}
+
+#lowerhead #search #textfield {
+	box-sizing:border-box;
+	border:1px solid #e2e2e2;
+	height:38px;
+	padding:5px;
+	width:350px;
+	color:#666;
+	line-height:38px;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-webkit-appearance:none;
+	appearance:none;
+}
+
+/* ----------------------------------- content-nav */
+.content-nav {margin:40px auto 40px auto;text-align:center;}
+.content-nav a {margin:0 5px;}
+
+#detail-nav {margin:0 0 40px 0;}
+#detail-nav #pankuzu,#detail-nav #breadcrumbs {width:700px;float:left;font-size:10px;}
+#detail-nav #pankuzu ul,#detail-nav #breadcrumbs ul {display:table;height:28px;}
+#detail-nav #pankuzu li,#detail-nav #breadcrumbs li {background:url(../img/parts/pankuzu.gif) no-repeat top left;padding:0 25px 0 10px;color:#FFF;height:28px;display:table-cell;vertical-align:middle;}
+
+
+
+#detail-nav #content-nav-home {float:right;}
+#detail-nav #pankuzu li a,#detail-nav #breadcrumbs li a {color:#FFF;letter-spacing:1px;}
+#detail-nav #pankuzu li a:hover,#detail-nav #breadcrumbs li a:hover {color:#cb2421;}
+#detail-nav #pankuzu li.firston,#detail-nav #breadcrumbs li.firston {background-position:100% -84px;}
+#detail-nav #pankuzu li.second,#detail-nav #breadcrumbs li.second {background-position: 100% -28px;}
+#detail-nav #pankuzu li.secondon,#detail-nav #breadcrumbs li.secondon {background-position:100% -112px;}
+#detail-nav #pankuzu li.third,#detail-nav #breadcrumbs li.third {background-position:100% -56px;}

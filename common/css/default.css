@@ -1,0 +1,237 @@
+@charset "utf-8";
+
+/* ----------------------------------- body のリセット */
+body {
+    font-size:14px;
+    color:#696969;
+    line-height:1.8;
+    background-color:#FFF;
+    height:100%;
+    text-align:left;
+    font-family: 'Shin Go Light', "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo , Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+   -webkit-text-size-adjust: none;
+}
+
+* html body {text-align:center;}
+
+/* font */
+
+@font-face {font-family:WebFont;src:url(../fonts/Trajan Bold.eot);}
+@font-face {font-family:WebFont;src:url(../fonts/trajanprobol.ttf) format("truetype");}
+
+
+/* ----------------------------------- margin, padding のリセット */
+
+body,div,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,input,p,figure,figcaption,section,article {
+    margin: 0;
+    padding: 0;
+    display:block;
+}
+
+/* ----------------------------------- Link */
+
+a {color:#333;text-decoration: none;}
+a:hover {color:#cb2421;}
+a:hover img{opacity:0.7;filter: alpha(opacity=70);}
+
+
+/* ----------------------------------- 強調表示解除 */
+
+address,caption,cite,code,dfn,h1,h2,h3,h4,th,var,strong {
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* ----------------------------------- block element */
+
+div,h1,h2,h3,h4,h5,h6,p,blockquote,pre,address,strong,object {
+    display: block;
+}
+
+
+/* ----------------------------------- h */
+
+h1, h2, h3, h4, h5, h6, strong {
+    color:#000;  
+}
+
+/* ----------------------------------- Img */
+
+img {
+    border: none;
+    vertical-align: bottom;
+    margin:0;
+    padding:0;
+}
+
+img a:link { text-decoration: none; }
+img a:hover { text-decoration: none; }
+
+
+/* ----------------------------------- dt dd */
+dl dt,dl dd {float:left;}
+
+/* ----------------------------------- List */
+
+ul,ol,dl{
+    margin:0;
+    padding:0;
+}
+
+
+dt,dd{
+    margin:0;
+    padding:0;
+    list-style:none none outside;
+    font-size: 100%;
+}
+
+/* ----------------------------------- apiIconList */
+#apiIconList {margin-top:15px;text-align: center;letter-spacing: -.40em;}
+#apiIconList li {display:inline-block;list-style:none;line-height:0;vertical-align: middle;letter-spacing: normal;}
+#apiIconList #tweet {width:100px;overflow:hidden;}
+#apiIconList #like {width:110px;overflow:hidden;margin-right:0;}
+#apiIconList #pocket {width:100px;overflow:hidden;}
+#apiIconList #google {width:60px;overflow:hidden;}
+
+
+/* ----------------------------------- social */
+.social {
+	border-top:1px solid #CCC;
+	padding-top: 35px;
+	margin:20px 0 40px 0;
+}
+
+
+.social ul {
+	text-align: center;
+	letter-spacing: -.40em;
+}
+
+.social ul li {
+	list-style: none;
+	letter-spacing: normal;
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+	padding:0 5px;
+	line-height: 1;
+}
+
+
+@media only screen and (orientation:landscape) {
+#comments iframe {width:675px!important;}
+#comments .fb_iframe_widget {width:675px!important;}
+#comments .fb_iframe_widget span {width:675px!important;}
+#comments #viewport {width:675px!important;}
+#comments iframe {width:675px!important;}
+#comments .mobilePluginComments {width:675px!important;}
+#comments .fb_iframe_widget_fluid {width:675px!important;}
+}
+
+@media only screen and (orientation:portrait) {
+#comments iframe {width:675px!important;}
+#comments .fb_iframe_widget {width:675px!important;}
+#comments .fb_iframe_widget span {width:675px!important;}
+#comments #viewport {width:675px!important;}
+#comments iframe {width:675px!important;}
+#comments .mobilePluginComments {width:675px!important;}
+#comments .fb_iframe_widget_fluid {width:675px!important;}
+}
+
+
+
+
+#topapi {margin-bottom:20px;}
+
+
+/* ----------------------------------- Clear */
+
+.clear:after {
+   content: ".";
+   display: block;
+   clear: both;
+   height: 0;
+   visibility: hidden;
+   line-height:0;
+}
+
+/* ----------------------------------- h */
+
+h1 {
+    font-size:12px;
+    height:35px;
+    margin:0 auto;
+    padding:6px 40px 4px 5px;
+    white-space:nowrap;
+    background:url(/common/img/parts/bg_h1.gif) no-repeat 100% 0;
+    color:#FFF;
+    line-height:1;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:1;
+}
+
+*:first-child+html h1 {font-size:75%;}
+* html h1 {font-size:75%;}
+html>/**/body h1 {font-size /*\**/: 75%\9;}
+
+#ebBannerDiv_0_1867007849668021 embed {top:40px!important;}
+
+
+/* ----------------------------------- entry-body */
+
+#entry-body {
+	line-height: 1.8;
+	font-size: 16px;
+}
+
+#entry-body dl dt,
+#entry-body dl dd {
+	float: none;
+}
+
+/* ----------------------------------- paging */
+.content-nav {width:895px;margin:0 auto;border-top:1px solid #CCC;padding-top:10px;}
+.content-nav li {list-style:none;font-size:16px;letter-spacing:1px;display:inline;}
+.content-nav li a,.content-nav li span {margin:0 10px 0 0;border-right:1px solid #CCC;padding-right:10px;}
+.content-nav li span {color:#BBB;font-weight:bold;}
+.content-nav li.link_first a,.content-nav li.link_last a {border:none;padding-right:0;}
+.content-nav li.link_first {float:left;width:100px;text-align:left;}
+.content-nav li.link_last {float:right;width:100px;text-align:right;}
+.content-nav li.link_list {text-align:center;float:left;width:575px;}
+
+.content-nav li.link_first a {background:url(/common/img/parts/cusor_r.gif) no-repeat 0 center;padding:0 0 0 12px;}
+.content-nav li.link_last a {background:url(/common/img/parts/cusor.gif) no-repeat 100% center;padding:0 12px 0 0;}
+
+#detailtop #topside {width:895px;float:left;}
+#detailtop.entry #topside {width: 100%;float:none;}
+#detailtop #topside h2 {font-family:times;font-size:62px;line-height:62px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+#detailtop #topside h3 {font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;margin:50px 0;font-weight:bold;font-size:32px;}
+#detailtop #topside p {margin:30px 0 0 0;font-size:18px;letter-spacing:1px;}
+#detailtop #glamside {width:300px;float:right;}
+#detailtop #apiIconList {margin-bottom:50px;}
+
+
+#backnumber strong {font-family:times;font-size:28px;line-height:28px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+#backnumber ul {margin:0 5px 45px 5px;float:left;width:125px;}
+#backnumber ul li {list-style: none;}
+#backnumber ul li h3 {font-size:12px;}
+#backnumber ul li img {width:125px;margin:0 0 5px 0;}
+
+#archive h2,#search h2 {display:block;background:url(../img/parts/dot.gif) repeat-x 0 center;font-family:times;font-size:62px;line-height:62px;margin-bottom:20px;font-family:times;}
+#archive h3 {letter-spacing:1px;text-align:center;font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;font-size:26px;line-height:26px;margin:80px 0;}
+#archive #list {letter-spacing:-.40em;}
+#archive #list ul {letter-spacing:normal;vertical-align:top;display:inline-block;width:25%;margin-bottom:30px;box-sizing:border-box;padding:0 10px;}
+#archive #list ul li {list-style: none;}
+#archive #list ul li img {width:100%;}
+#title {margin:20px 0;padding-bottom:10px;font-weight:bold;border-bottom:1px solid #CCC;}
+#title span {background-color:#FFF;padding:0 20px 0 0;font-size:12px;}
+#archive #list ul li strong {font-size:14px;margin-top:10px;letter-spacing:1px;}
+
+
+.content-nav-home {list-style:none;float:right;width:200px;font-size:14px;font-family:times;}
+.content-nav-home li.previous {float:left;}
+.content-nav-home li.next {float:right;}

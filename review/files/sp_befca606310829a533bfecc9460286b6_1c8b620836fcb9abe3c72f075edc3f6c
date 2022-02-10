@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<title>すべてのレビュー | FocusSound</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="/common_sp/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/common_sp/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/common_sp/js/common.js"></script>
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="//apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+<link rel="stylesheet" href="/common_sp/css/index.css">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<link rel="stylesheet" href="/common_sp/css/review.css">
+<meta property="og:title" content="すべてのレビュー">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://focussound.jp/review/archives/">
+<meta property="og:image" content="http://focussound.jp/common/img/parts/logo.jpg">
+<meta property="og:site_name" content="FocusSound">
+<meta property="og:description" content="">
+<meta property="fb:pages" content="119623658067547">
+<meta property="fb:app_id" content="357632844282822">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@focussound">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</head>
+<body id="top">
+<div id="fb-root"></div>
+<div id="wrap">
+<nav id="g-nav">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+<li><a href="/feature/">Feature</a></li>
+<li><a href="/event/">Event</a></li>
+</ul>
+</nav>
+
+<section id="search">
+<h2>フリーワードから記事を探す</h2>
+<form name="freeword" action="/search/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）レストラン　BGM">
+<input id="button-search" class="search-submit" onclick="document.freeword.submit();ga('send', 'event', 'フリーワード', '検索', 'SP');" type="submit" value="Search">
+</form>
+
+<h2>楽器から音楽を探す</h2>
+<form name="instruments" action="/instruments/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）ギター">
+<input id="button-search" class="search-submit" onclick="document.instruments.submit();ga('send', 'event', 'タグ検索', '検索', 'SP');" type="submit" value="Search">
+</form>
+</section>
+
+<header>
+<div id="logo"><a href="/"><img src="/common_sp/img/parts/logo.png" alt="FoucusSound"></a></div>
+<a id="menu-btn" href="javascript:void(0);">MENU</a>
+<a id="search-btn" href="javascript:void(0);">SEARCH</a>
+</header>
+
+<h1 id="blog-name">Review</h1>
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+<section id="archive" class="newlist">
+<h1>All Reviews</h1>
+
+<a href="https://focussound.jp/review/2012/10/doggystyle.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/snoopdogg.jpg" alt="Doggystyle"></dt>
+<dd>Doggystyle<small>Snoop Dogg</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/breaking-atoms.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/mainsource.jpg" alt="Breaking Atoms"></dt>
+<dd>Breaking Atoms<small>Main Source</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/analogue-bubblebath.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/afx.jpg" alt="Analogue Bubblebath"></dt>
+<dd>Analogue Bubblebath<small>AFX</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/rage-against-the-machine.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/rageagainstthemachine.jpg" alt="Rage Against the Machine"></dt>
+<dd>Rage Against the Machine<small>Rage Against the Machine</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/pennybridge-pioneers.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/millencolin.jpg" alt="Pennybridge Pioneers"></dt>
+<dd>Pennybridge Pioneers<small>Millencolin</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/complete-discography.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/minorthreat.jpg" alt="Complete Discography"></dt>
+<dd>Complete Discography<small>Minor Threat</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/10/walk-together-rock-together.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/walktogetherrock.jpg" alt="Walk Together Rock Together"></dt>
+<dd>Walk Together Rock Together<small>7 Seconds</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/09/my-little-beautiful.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/mylittlebeautiful.jpg" alt="My Little Beautiful"></dt>
+<dd>My Little Beautiful<small>Tessei Tojo</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/09/these-walls-of-mine.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/thesewallsofmine.jpg" alt="These Walls Of Mine"></dt>
+<dd>These Walls Of Mine<small>Peter Broderick</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/09/catalyst.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/catalyst.jpg" alt="Catalyst"></dt>
+<dd>Catalyst<small>Ryoma Takemasa</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/09/reverberate-slowly.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/reverberateslowly.jpg" alt="Reverberate Slowly"></dt>
+<dd>Reverberate Slowly<small>El Fog</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/08/be-good.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/begood.jpg" alt="Be Good"></dt>
+<dd>Be Good<small>Gregory Porter</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/08/destory-dream.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/destroydream.jpg" alt="Destory & Dream"></dt>
+<dd>Destory & Dream<small>Evade</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/08/helix-of-light.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/helixoflight.jpg" alt="Helix Of Light"></dt>
+<dd>Helix Of Light<small>Numb</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/08/sweet-mellow-cat.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/sweetmellowcat.jpg" alt="Sweet Mellow Cat"></dt>
+<dd>Sweet Mellow Cat<small>Liz Christine</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/08/the-language-of-flowers.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/thelanguageofflowers.jpg" alt="The Language of Flowers"></dt>
+<dd>The Language of Flowers<small>Twigs & Yarn</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/07/rmx.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/rmx.jpg" alt="rmx"></dt>
+<dd>rmx<small>9dw</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/07/9dw.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/9dw.jpg" alt="9dw"></dt>
+<dd>9dw<small>9dw</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/07/gears.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/gears.jpg" alt="Gears"></dt>
+<dd>Gears<small>Johnny Hammond</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2012/07/analog-drift.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/analogdrift.jpg" alt="Analog Drift"></dt>
+<dd>Analog Drift<small>Chico Mann</small></dd>
+</dl>
+</a>
+</section>
+
+
+
+<section class="content-nav"><ul class="clear">
+<li class="link_first">
+
+<a class="prev" href="?page=10">Prev</a>
+&nbsp;</li>
+<li class="page">		
+
+
+
+			
+
+
+
+			
+
+
+
+			
+
+
+
+<a href="?page=9">9</a>
+
+
+
+
+<a href="?page=10">10</a>
+
+
+
+
+<span>11</span>
+
+
+
+
+<a href="?page=12">12</a>
+
+
+
+
+<a href="?page=13">13</a>
+
+
+</li>			
+<li class="link_last">&nbsp;
+
+<a href="?page=12">Next</a>
+</li>
+</ul></section>
+
+
+
+
+</div>
+<section id="pagebox">
+<div class="fb-page" data-href="https://www.facebook.com/focussoundjp" data-width="290" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/focussoundjp"><a href="https://www.facebook.com/focussoundjp">FocusSound</a></blockquote></div></div>
+</section>
+
+<footer>
+<nav>
+<a href="/about/">About Us</a>
+<a href="/sitepolicy/">Site Policy</a>
+<a href="/privacy/">Privacy Policy</a>
+<a href="/contact_sp/">Contact</a>
+</nav>
+<p id="copy">Copyright &copy; 2017 bootscafe INC. all rights reserved.</p>
+</footer>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+</body>
+</html>

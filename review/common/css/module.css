@@ -1,0 +1,182 @@
+@charset "utf-8";
+
+h2 span,strong span,h3 span,h4 span {background-color:#FFF;padding-right:20px;}
+
+/* 広告 */
+
+.ads {
+	position: relative;
+	text-align: center; 
+	margin: 40px 0;
+	padding: 10px 30px;
+}
+
+.ads.side {
+	padding: 0;
+	margin: 0;
+	width: 300px;
+	height: 250px;
+}
+
+.ads.big {
+	padding: 0;
+	margin: 0;
+	width: 728px;
+	height: 90px;
+	float: right;
+}
+
+
+.ads > span {
+	position:absolute;
+	top:0;
+	left:0;
+	display:inline-block;
+	font-family: 'QuickSand';
+	letter-spacing: 1px;
+	background-color: rgba(0,0,0,0.8);
+	padding:5px 10px;
+	color:#FFF;
+	z-index:2;
+}
+
+/* 本文 */
+
+
+
+
+
+/* 関連記事 */
+
+#relative-entry {margin:40px 0;}
+#relative-entry h4 {margin-bottom:20px;font-size:36px;line-height:1;font-family:'times';padding:15px 10px;border-bottom:1px solid #CCC;border-top:1px solid #CCC;}
+
+#relative-entry article {
+	border-bottom: 1px solid #CCC;
+}
+
+#relative-entry article:last-of-type {
+	border-bottom: none;
+}
+
+#relative-entry article a {
+	display: block;
+	letter-spacing: -.40em;
+	padding: 10px;
+}
+
+#relative-entry article figure,
+#relative-entry article .info {
+	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: top;
+	letter-spacing: normal;
+}
+
+#relative-entry article figure {
+	width: 25%;
+}
+
+#relative-entry article .info {
+	width: 75%;
+	padding-left: 20px;
+}
+
+#relative-entry article .info strong {
+	display: block;
+	font-size: 24px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+#relative-entry article .info > span {
+	display: block;
+	margin-top: 5px;
+	font-size: 18px;
+	font-family: 'QuickSand', "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo , Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+#relative-entry article .info p {
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+#relative-entry article figure img {
+	width: 100%;
+}
+
+
+
+#archive-list > a {
+	display: block;
+	letter-spacing: -.40em;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1px dotted #CCC;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#archive-list > a:last-of-type {
+	border-bottom: none;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+#archive-list > a figure {
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+	width: 25%;
+	position: relative;
+}
+
+#archive-list > a figure > figcaption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	background-color: rgba(0,0,0,0.9);
+	color: #FFF;
+	font-family: 'times';
+	letter-spacing: normal;
+	line-height: 1;
+	font-size: 16px;
+	text-align: center;
+}
+
+#archive-list > a figure img {
+	width: 100%;
+}
+
+#archive-list > a .info {
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+	width: 75%;
+	letter-spacing: normal;
+	padding-left: 30px;
+}
+
+#archive-list > a .info > strong {
+	display: block;
+	font-size: 21px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+#archive-list > a .info > small.time {
+	font-family: 'QuickSand';
+}
+
+#archive-list > a .info > small {
+	display: block;
+	font-size: 16px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+#archive-list > a .info > p {
+	color:#696969;
+	font-size: 16px;
+	margin-top: 30px;
+}

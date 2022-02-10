@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>すべてのレビュー | FocusSound</title>
+<meta name="viewport" content="width=1240,minimum-scale=0,maximum-scale=10">
+<meta name="keywords" content="フォーカスサウンド,FocusSound,CD,ダウンロード,音楽,セレクト,BGM,選曲">
+<meta name="description" content="「フォーカスサウンド」ではイベントやパーティでかける音楽またはBGM（ダウンロード・CD）のセレクトをお手伝いします。">
+<meta name="google-site-verification" content="5LrgruYUqzyl-mhTVQUauznBORQnKrboOeCCVDWXYdc">
+<link rel="stylesheet" href="/common/css/index.css" type="text/css">
+<script src="//www.google.com/jsapi?key=ABQIAAAAEZc8JvpMDDtL-zuDY_4gxxSGBHj1hxXgB_bgP2vepJO-fAQemxTtPJCnm3M87yePQUta8Pooc44CZQ" type="text/javascript"></script>
+<script type="text/javascript" src="/common/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="//apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+<script type="text/javascript" src="/common/js/common.js"></script>
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<link rel="stylesheet" href="/common/css/review.css" type="text/css">
+<meta property="og:title" content="すべてのレビュー" >
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://focussound.jp/review/archives/">
+<meta property="og:image" content="http://focussound.jp/common/img/parts/logo.jpg">
+<meta property="og:site_name" content="FocusSound">
+<meta property="og:description" content="「フォーカスサウンド」ではイベントやパーティでかける音楽またはBGM（ダウンロード・CD）のセレクトをお手伝いします。">
+<meta property="fb:pages" content="119623658067547">
+<meta property="fb:app_id" content="357632844282822">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@focussound">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</head>
+<body >
+<div id="fb-root"></div>
+<h1>すべてのレビュー</h1>
+
+<div id="wrapper">
+<ul id="uppernav" class="clear">
+<li class="last"><a href="/contact/index.php">Contact</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/about/">About Us</a></li>
+</ul>
+
+<header id="header" class="clear">
+<div id="logo"><a href="/"><img src="/common/img/parts/logo.gif" alt="FocusSound" /></a></div>
+
+<div class="ads big"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FSヘッダー -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2941570872209956"
+     data-ad-slot="9045429175"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+</header>
+
+<!--▽lowerhead▽-->
+<div id="lowerhead" class="clear">
+<ul id="navigation" class="clear">
+<li class="select"><a href="/select/">Select</a></li>
+<li class="review"><a href="/review/">Review</a></li>
+<li class="feature"><a href="/feature/">Feature</a></li>
+<li class="news"><a href="/event/">Event</a></li>
+</ul>
+
+<div id="search" class="clear">
+<form name="freeword" action="/search/" method="get" role="search" class="freeword clear">
+<input id="textfield" name="search" type="text" value="" placeholder="記事を検索">
+<input id="button-search" class="search-submit" onclick="document.freeword.submit();ga('send', 'event', 'フリーワード', '検索', 'PC');" type="submit" value="Search">
+</form>
+</div>
+
+</div>
+<!--△lowerhead△-->
+
+
+
+<!--▽contents▽-->
+<div id="contents" class="clear">
+
+<!--▽detail-nav▽-->
+<div id="detail-nav" class="clear">
+
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" id="breadcrumbs">
+<ul class="clear">
+<li class="firston"><a href="/" itemprop="url"><span itemprop="title">HOME</span></a></li>
+<li class="secondon"><a href="https://focussound.jp/review/" itemprop="url"><span itemprop="title">Review</span></a></li>
+<li class="third"><span itemprop="title">すべてのレビュー</span></li>
+</ul>
+</div>
+
+
+</div>
+<!--△detail-nav△-->
+
+
+
+<!--▽main▽-->
+<div id="main">
+
+<div id="archive">
+<h2><span>Review</span></h2>
+<h3>All Reviews</h3>
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+<div class="content-nav"><ul class="clear">
+<li class="link_first">
+
+<a class="prev" href="?page=79">Prev</a>
+&nbsp;</li>
+<li class="page">		
+
+
+
+			
+
+
+
+			
+
+
+
+			
+
+
+<a href="?page=66">66</a>
+
+
+
+<a href="?page=67">67</a>
+
+
+
+<a href="?page=68">68</a>
+
+
+
+<a href="?page=69">69</a>
+
+
+
+<a href="?page=70">70</a>
+
+
+
+<a href="?page=71">71</a>
+
+
+
+<a href="?page=72">72</a>
+
+
+
+<a href="?page=73">73</a>
+
+
+
+<a href="?page=74">74</a>
+
+
+
+<a href="?page=75">75</a>
+
+
+
+<a href="?page=76">76</a>
+
+
+</li>			
+<li class="link_last">&nbsp;
+
+<a href="?page=81">Next</a>
+</li>
+</ul></div>
+
+
+
+
+</div>
+
+</div>
+<!--△main△-->
+
+<div id="sidebar">
+<div id="glamside"><div class="ads side">
+<span>AD</span>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FSサイドバナー -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2941570872209956"
+     data-ad-slot="7568695975"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div><div class="list">
+<strong>Categories</strong>
+<ul><li><a href="https://focussound.jp/review/electronica/" title="エレクトロニカ">エレクトロニカ (491)</a></li>
+<li><a href="https://focussound.jp/review/ambient/" title="アンビエント">アンビエント (221)</a></li>
+<li><a href="https://focussound.jp/review/house/" title="テクノ・ハウス">テクノ・ハウス (85)</a></li>
+<li><a href="https://focussound.jp/review/classic/" title="クラシック">クラシック (60)</a></li>
+<li><a href="https://focussound.jp/review/jazz/" title="ジャズ">ジャズ (177)</a></li>
+<li><a href="https://focussound.jp/review/brasil/" title="ブラジル">ブラジル (45)</a></li>
+<li><a href="https://focussound.jp/review/acoustic/" title="アコースティック">アコースティック (168)</a></li>
+<li><a href="https://focussound.jp/review/rock/" title="ロック">ロック (170)</a></li>
+<li><a href="https://focussound.jp/review/dub/" title="レゲエ・ダブ">レゲエ・ダブ (21)</a></li>
+<li><a href="https://focussound.jp/review/pops/" title="POPS">POPS (142)</a></li>
+<li><a href="https://focussound.jp/review/hiphop/" title="Hip Hop">Hip Hop (19)</a></li>
+<li><a href="https://focussound.jp/review/rb/" title="R&B・ファンク">R&B・ファンク (86)</a></li>
+<li><a href="https://focussound.jp/review/salsa/" title="サルサ">サルサ (7)</a></li>
+<li><a href="https://focussound.jp/review/tango/" title="タンゴ">タンゴ (1)</a></li>
+<li><a href="https://focussound.jp/review/africa/" title="アフリカ">アフリカ (21)</a></li>
+<li><a href="https://focussound.jp/review/india/" title="インド">インド (1)</a></li>
+<li><a href="https://focussound.jp/review/Indonesia/" title="インドネシア">インドネシア (2)</a></li>
+<li><a href="https://focussound.jp/review/spain/" title="スペイン">スペイン (2)</a></li>
+<li><a href="https://focussound.jp/review/cuba/" title="キューバ">キューバ (8)</a></li>
+<li><a href="https://focussound.jp/review/field/" title="フィールドレコーディング">フィールドレコーディング (1)</a></li>
+<li><a href="https://focussound.jp/review/soundtrack/" title="サウンドトラック">サウンドトラック (14)</a></li>
+<li><a href="https://focussound.jp/review/modern/" title="現代音楽">現代音楽 (34)</a></li>
+<li><a href="https://focussound.jp/review/egypt/" title="エジプト">エジプト (1)</a></li>
+<li><a href="https://focussound.jp/review/hawaii/" title="ハワイ">ハワイ (1)</a></li>
+</ul>
+</div><div class="list">
+<strong>Instruments</strong>
+<ul>
+<li><a href="/instruments/?tag=女性ヴォーカル">女性ヴォーカル（222）</a></li><li><a href="/instruments/?tag=ピアノ">ピアノ（210）</a></li><li><a href="/instruments/?tag=ギター">ギター（183）</a></li><li><a href="/instruments/?tag=男性ヴォーカル">男性ヴォーカル（159）</a></li><li><a href="/instruments/?tag=電子音">電子音（130）</a></li><li><a href="/instruments/?tag=サックス">サックス（38）</a></li><li><a href="/instruments/?tag=ベース">ベース（33）</a></li><li><a href="/instruments/?tag=ドラム">ドラム（23）</a></li><li><a href="/instruments/?tag=オルガン">オルガン（9）</a></li><li><a href="/instruments/?tag=環境音">環境音（9）</a></li><li><a href="/instruments/?tag=エレクトリックピアノ">エレクトリックピアノ（7）</a></li><li><a href="/instruments/?tag=バイオリン">バイオリン（7）</a></li><li><a href="/instruments/?tag=チェロ">チェロ（5）</a></li><li><a href="/instruments/?tag=ラップ">ラップ（5）</a></li><li><a href="/instruments/?tag=ヴァイオリン">ヴァイオリン（5）</a></li><li><a href="/instruments/?tag=ヴィブラフォン">ヴィブラフォン（5）</a></li><li><a href="/instruments/?tag=オルゴール">オルゴール（4）</a></li><li><a href="/instruments/?tag=フルート">フルート（4）</a></li><li><a href="/instruments/?tag=グロッケン">グロッケン（3）</a></li><li><a href="/instruments/?tag=ハープ">ハープ（3）</a></li>
+</ul>
+</div>
+<section id="pagebox">
+<div class="fb-page" data-href="https://www.facebook.com/focussoundjp" data-width="300" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/focussoundjp"><a href="https://www.facebook.com/focussoundjp">FocusSound</a></blockquote></div></div>
+</section><!--▽News▽-->
+<div id="News">
+<strong><a href="/news/">一覧へ</a></strong>
+<div class="news-list">
+<dl class="clear">
+<dt><a href="https://focussound.jp/event/2017/20170414_3540.html"><img src="https://focussound.jp/event/upload/VIAtour_2_1.jpg-e1486909291302.jpg" alt="Andi Otto "VIA" Japan Tour 2017 東京公演 at.尾山台 Fluss" /></a></dt>
+<dd>
+<span>2017.04.14</span>
+<p><a href="https://focussound.jp/event/2017/20170414_3540.html">Andi Otto "VIA" Japan Tour 2017 東京公演 at.尾山台 Fluss</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="https://focussound.jp/event/2016/20161018_3523.html"><img src="https://focussound.jp/event/upload/img_161019.jpg" alt="aus + Ametsub + haruka nakamura + 宮内優里" /></a></dt>
+<dd>
+<span>2016.10.18</span>
+<p><a href="https://focussound.jp/event/2016/20161018_3523.html">aus + Ametsub + haruka nakamura + 宮内優里</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="https://focussound.jp/event/2016/20161006_3521.html"><img src="https://focussound.jp/event/upload/surrealreleaseparty.jpg" alt=" mu h / Surreal Release Party" /></a></dt>
+<dd>
+<span>2016.10.06</span>
+<p><a href="https://focussound.jp/event/2016/20161006_3521.html"> mu h / Surreal Release Party</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="https://focussound.jp/event/2016/20160905_3493.html"><img src="https://focussound.jp/event/upload/munest.jpg" alt="night cruising 10th anniversary feat.mü-nest night" /></a></dt>
+<dd>
+<span>2016.09.05</span>
+<p><a href="https://focussound.jp/event/2016/20160905_3493.html">night cruising 10th anniversary feat.mü-nest night</a></p>
+</dd>
+</dl><dl class="last clear">
+<dt><a href="https://focussound.jp/event/2016/20160615_3489.html"><img src="https://focussound.jp/event/upload/thegallery.jpg" alt="The Gallery supported by Sarcastic" /></a></dt>
+<dd>
+<span>2016.06.15</span>
+<p><a href="https://focussound.jp/event/2016/20160615_3489.html">The Gallery supported by Sarcastic</a></p>
+</dd>
+</dl>
+</div>
+</div>
+<!--△News△-->
+</div>
+<!--△sidebar△-->
+
+</div>
+<!--△contents△-->
+
+</div>
+<!--▽footer▽-->
+<footer id="footer">
+<div id="footerwrapper" class="clear">
+
+<div id="footer-logo">
+<div id="footerfocussound"><a href="/"><img src="/common/img/footer/footer_logo.gif" alt="FocusSound"></a></div>
+<p id="copyright">Copyright &copy; 2021 bootscafe INC. all rights reserved.</p>
+</div>
+
+<div id="footernav">
+<ul class="clear">
+<li><a href="/">HOME</a></li>
+<li><a href="/select/">SELECT</a></li>
+<li><a href="/review/">REVIEW</a></li>
+<li class="last"><a href="/feature/">FEATURE</a></li>
+</ul>
+
+<ul class="clear">
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li class="last"><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+
+</div>
+</footer>
+<!--△footer△-->
+
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+</body>
+</html>

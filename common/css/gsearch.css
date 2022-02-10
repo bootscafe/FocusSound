@@ -1,0 +1,28 @@
+#title {margin:20px 0;background:url(http://focussound.jp/img/dot.gif) repeat-x center left;}
+#title span {background-color:#FFF;padding:0 20px 0 0;font-size:14px;}
+
+#results {text-decoration:none;}
+#results a {color:#cb2421;}
+#results a b {color:#cb2421;}
+#results b {text-decoration:none;font-size:110%;}
+#results a:hover {color:#fda2a1;}
+#results span {color:#fda2a1;}
+#results .gs-title {text-decoration:none;margin:0 0 5px 0;line-height:180%;font-size:14px;width:600px;}
+#results .gs-visibleUrl.gs-visibleUrl-short {color:#CCC;}
+#results .domaanLink .twolineAd {color:#666;}
+#results a .titleLink {text-decoration:none;}
+
+#results .gsc-webResult.gsc-result {margin:15px 0 0 0;}
+#results .gsc-cursor-box {margin:35px 0 0 0;text-align:center;}
+
+#results .gs-no-results-result .gs-snippet,
+#results .gs-error-result .gs-snippet {padding:10px;margin:0;border:1px solid #999;background:none;}
+
+.gsc-control {width:100%;}
+
+.gsc-control div {position:relative;}
+.gsc-control-cse {width: 100%;font-family: Arial, sans-serif;font-size:100%;}
+.gsc-control-cse div {position:relative;}
+.gsc-control-cse div i {text-decoration:none;}
+.gsc-results .gsc-cursor-box {margin-bottom:100px!important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {margin:0 30px 0 0!important;text-decoration:none!important;}

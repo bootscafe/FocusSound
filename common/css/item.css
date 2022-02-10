@@ -1,0 +1,107 @@
+@charset "utf-8";
+
+#itemtop {margin-top:30px;}
+#itemtop h2 {font-family:times;font-size:62px;line-height:62px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+h2 span,strong span,h3 span {background-color:#FFF;padding-right:20px;}
+#itemtop #topside {width:675px;float:left;}
+#itemtop #topside dl dt {width:220px;}
+#itemtop #topside dl dd {width:455px;}
+#itemtop #topside dl dd strong {font-weight:bold;font-size:18px;line-height:1.8;}
+#itemtop #topside dl dd p {margin:30px 0 0 0;font-size:14px;}
+#itemtop #topside dl img {width:200px;}
+#itemtop #glamside {width:300px;float:right;}
+
+#itemlist {margin:40px 0 0 0;position:relative;}
+.itemcategory {margin:40px 0;}
+.itemcategory h2 {margin-bottom:20px;}
+#itemlist h2,.itemcategory h2 {font-family:times;font-size:36px;line-height:36px;background:url(../img/parts/dot.gif) repeat-x 0 center;}
+#itemlist ul {width:156px;float:left;margin:0 5px 10px 5px;}
+#itemlist ul li img {width:156px;}
+#itemlist ul li h3 {font-size:12px;margin:15px 0 0 0;}
+
+.category {width:220px;padding:0 10px;float:left;margin:10px 4px;height:180px;}
+.category h3 {font-size:12px;font-weight:bold;margin-top:10px;color:#333;}
+.category li {text-align:center;}
+.itemcategory {margin:10px 0;}
+.category h3 a {background:url(/common/img/parts/cusor.gif) no-repeat 0 center;padding-left:10px;}
+
+
+#allitem {position:absolute;top:0;right:0;font-size:14px;}
+#allitem a {display:block;color:#FFF;font-family:times;background:#cb2421 url(/common/img/parts/cusor_white.gif) no-repeat 10px center;padding-left:20px;padding:5px 20px;}
+#allitem a:hover {background-color:#000;}
+#itemlist .list {margin-top:50px;}
+
+/*item detail*/
+dl.artist {margin:20px 0 0 0;}
+dl.artist dt {width:320px;}
+dl.artist dd.profile {width:355px;margin:0 25px 0 0;}
+dl.artist dd.profile h3 {font-weight:bold;font-size:18px;margin:0 0 25px 0;}
+dl.artist dd.profile .url a {font-size:12px;color:#cb2421;}
+dl.artist dd.profile .url a:hover {font-size:12px;color:#f47c7a;}
+dl.artist dd.profile p {margin:23px 0 0 0;line-height:21px;}
+dl.artist dd.disc {width:300px;height:300px;background:url(../img/disc.jpg) no-repeat top left;}
+dl.artist dd.disc ul {width:200px;margin:25px auto 0 auto;}
+dl.artist dd.disc img {width:200px;}
+dl.artist dd.disc .name {margin:10px 0 0 0;font-size:14px;line-height:24px;}
+dl.artist dd.disc .name a {color:#FFF;}
+dl.artist dd.disc .name a:hover {color:#f47c7a;}
+
+.comment {margin:30px 0;position:relative;display:table;}
+.comment .left {font-size:16px;float:lleft;width:400px;margin:10px 0 0 0;display:table-cell;vertical-align:middle;}
+.comment .right {background-color:#fff690;float:right;font-size:14px;padding:20px;width:560px;line-height:24px;display:table-cell;}
+.music-list {margin:0 0 30px 0;}
+.music-list dl {width:490px;float:left;margin:0 10px 0 0;}
+.music-list dl dt {width:180px;}
+.music-list dl dd {width:310px;font-size:12px;line-height:24px;}
+.music-list dl dt img {width:160px;}
+.music-list dl dd h4 {margin:0 0 25px 0;font-size:14px;}
+.music-list dl dd .buy {margin:5px 0 0 0;}
+
+#relativeitem,#amazon {margin:0 0 40px 0;}
+#relativeitem strong,#amazon strong {margin:0 0 20px 0;font-weight:bold;padding:0 0 10px 0;border-bottom:1px solid #CCC;}
+#relativeitem ul {margin:0 7px 10px 7px;float:left;width:153px;}
+#relativeitem ul img {width:153px;margin:0 0 10px 0;}
+
+#amazon ul {margin:0 7px 10px 7px;float:left;width:121px;}
+#amazon ul li.img {width:121px;text-align:center;overflow:hidden;}
+#amazon ul li.name {font-size:10px;}
+#amazon ul img {height:121px;margin:0 0 10px 0;}
+
+.buy {text-align:center;}
+.products {margin:40px 0;}
+dl dd.photo {width:220px;}
+dl dd.photo img {width:200px;}
+dl dd.explain {width:455px;}
+.products h3,.left h3,.right h3,.item-list h3 {font-weight:bold;font-size:12px;border-bottom:1px solid #CCC;padding-bottom:5px;}
+.products h3 span,.left h3 span,.right h3 span,.item-list h3 span {padding:0 20px 0 0;background-color:#FFF;}
+.products p,.products ul {margin:20px 0;line-height:24px;}
+.detail {background-color:#EBEBEB;padding:10px;font-size:14px;line-height:24px;margin:20px 0;}
+
+#itemimg {text-align:center;margin:20px 0;}
+.item {font-size:14px;line-height:24px;}
+.item img {width:50%;}
+.item-list {margin:30px 0;}
+.item-list h3 {margin:0 0 20px 0;}
+.item-list ul {width:215px;float:left;margin:0 0 0 10px;}
+.item-list .photo img {width:200px;}
+.h-200 ul {height:200px;}
+.h-250 ul {height:250px;}
+.h-300 ul {height:300px;}
+.h-350 ul {height:350px;}
+.h-400 ul {height:400px;}
+.h-450 ul {height:450px;}
+.h-500 ul {height:500px;}
+.h-550 ul {height:550px;}
+.title {margin:15px 0;font-size:12px;}
+.des {font-size:80%;margin:10px 0;}
+*:first-child+html .des {font-size:75%;}
+* html .des {font-size:75%;}
+html>/**/body .des {font-size /*\**/: 75%\9;}
+
+.left {width:327px;float:left;}
+.right {width:327px;float:right;}
+
+#relative-entry {background:url(/common/img/item/relative.gif) no-repeat top left;padding:50px 0 0 0;}
+#relative-entry ul {margin:0 0 0 20px;}
+#relative-entry ul li {margin:0 0 5px 0;}
+#relative-entry li a {background:url(/common/img/parts/cusor.gif) no-repeat 0 4px;padding:0 0 0 15px;}

@@ -1,0 +1,1 @@
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1006680491&adSize=300x250"></script>

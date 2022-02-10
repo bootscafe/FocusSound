@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+/* ------------------------- wrapper */
+
+/* 全体用フレーム */
+#wrapper {
+    margin:0 auto;
+    background:#FFF;
+    width:1240px;
+    padding:0 10px;
+    position:relative;
+    box-sizing:border-box;
+}
+* html #wrapper {text-align:left;} 
+
+
+/* ------------------------- contents-left */
+
+#contents {margin:40px 0 0 0;}
+
+#contents:after {
+   content: ".";
+   display: block;
+   clear: both;
+   height: 0;
+   visibility: hidden;
+}
+#contents { display: inline-block; }
+* html #contents { height: 1%; }
+#contents { display: block; }
+
+/* ------------------------- main */
+
+#main {
+    width:895px;
+    float:left;
+    padding:0 0 30px 0;
+    margin:0;
+}
+
+/* ------------------------- sidebar */
+
+#sidebar {
+    float:right;
+    width:300px;
+    margin:0;
+    padding:0;
+}

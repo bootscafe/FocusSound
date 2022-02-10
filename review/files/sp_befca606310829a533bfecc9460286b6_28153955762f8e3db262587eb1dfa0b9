@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<title>すべてのレビュー | FocusSound</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="/common_sp/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/common_sp/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/common_sp/js/common.js"></script>
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="//apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+<link rel="stylesheet" href="/common_sp/css/index.css">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<link rel="stylesheet" href="/common_sp/css/review.css">
+<meta property="og:title" content="すべてのレビュー">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://focussound.jp/review/archives/">
+<meta property="og:image" content="http://focussound.jp/common/img/parts/logo.jpg">
+<meta property="og:site_name" content="FocusSound">
+<meta property="og:description" content="">
+<meta property="fb:pages" content="119623658067547">
+<meta property="fb:app_id" content="357632844282822">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@focussound">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</head>
+<body id="top">
+<div id="fb-root"></div>
+<div id="wrap">
+<nav id="g-nav">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+<li><a href="/feature/">Feature</a></li>
+<li><a href="/event/">Event</a></li>
+</ul>
+</nav>
+
+<section id="search">
+<h2>フリーワードから記事を探す</h2>
+<form name="freeword" action="/search/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）レストラン　BGM">
+<input id="button-search" class="search-submit" onclick="document.freeword.submit();ga('send', 'event', 'フリーワード', '検索', 'SP');" type="submit" value="Search">
+</form>
+
+<h2>楽器から音楽を探す</h2>
+<form name="instruments" action="/instruments/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）ギター">
+<input id="button-search" class="search-submit" onclick="document.instruments.submit();ga('send', 'event', 'タグ検索', '検索', 'SP');" type="submit" value="Search">
+</form>
+</section>
+
+<header>
+<div id="logo"><a href="/"><img src="/common_sp/img/parts/logo.png" alt="FoucusSound"></a></div>
+<a id="menu-btn" href="javascript:void(0);">MENU</a>
+<a id="search-btn" href="javascript:void(0);">SEARCH</a>
+</header>
+
+<h1 id="blog-name">Review</h1>
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+<section id="archive" class="newlist">
+<h1>All Reviews</h1>
+
+<a href="https://focussound.jp/review/2010/05/cozy.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/cozy.jpg" alt="COZY"></dt>
+<dd>COZY</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/05/seahorse-and-the-storytelle.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/seahouse.jpg" alt="Seahorse and the Storytelle"></dt>
+<dd>Seahorse and the Storytelle</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/05/mirrors-in-your-eyes.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/mirrora.jpg" alt="Mirrors In Your Eyes"></dt>
+<dd>Mirrors In Your Eyes</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/05/african-rhythms.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/african.jpg" alt="African Rhythms"></dt>
+<dd>African Rhythms</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/boz-scaggs-greatest-hits-live.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/bosaggsgreatest.jpg" alt="Boz Scaggs: Greatest Hits Live"></dt>
+<dd>Boz Scaggs: Greatest Hits Live</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/bewitched.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/miwaku.jpg" alt="Bewitched"></dt>
+<dd>Bewitched</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/post-37.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/freesoul.jpg" alt="フリー・ソウル クラシック・オブ・ミニー・リパートン"></dt>
+<dd>フリー・ソウル クラシック・オブ・ミニー・リパートン</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/genius-loves-company.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/geniusloves.jpg" alt="Genius Loves Company (ジーニアス・ラヴ ~永遠の愛)"></dt>
+<dd>Genius Loves Company (ジーニアス・ラヴ ~永遠の愛)</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/i-am-sam-music-from-and-inspired-by-the-motion-picture.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/iamsam.jpg" alt="I Am Sam (Music from and Inspired By the Motion Picture)"></dt>
+<dd>I Am Sam (Music from and Inspired By the Motion Picture)</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/gummi.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/gummi.jpg" alt="Gummi"></dt>
+<dd>Gummi</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/tropism.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/tropism.jpg" alt="Tropism"></dt>
+<dd>Tropism</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/in-escaping-lakes.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/lakes.jpg" alt="In Escaping Lakes"></dt>
+<dd>In Escaping Lakes</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/nocturnal.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/flica.jpg" alt="Nocturnal"></dt>
+<dd>Nocturnal</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/untitled.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/birdshow.jpg" alt="Untitled"></dt>
+<dd>Untitled</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/opal-island.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/opalisland-.jpg" alt="Opal Island"></dt>
+<dd>Opal Island</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/the-invisible-city.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/invisible.jpg" alt="The Invisible City"></dt>
+<dd>The Invisible City</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/the-ridings.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/theridings.jpg" alt="The Ridings"></dt>
+<dd>The Ridings</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/sunrise.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/sunrise.jpg" alt="Sunrise"></dt>
+<dd>Sunrise</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/convivencia.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/convivencia.jpg" alt="Convivencia"></dt>
+<dd>Convivencia</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2010/04/fyris-swan.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/fyrisswan.jpg" alt="Fyris Swan"></dt>
+<dd>Fyris Swan</dd>
+</dl>
+</a>
+</section>
+
+
+
+<section class="content-nav"><ul class="clear">
+<li class="link_first">
+
+<a class="prev" href="?page=64">Prev</a>
+&nbsp;</li>
+<li class="page">		
+
+
+
+			
+
+
+
+			
+
+
+
+			
+
+
+
+<a href="?page=63">63</a>
+
+
+
+
+<a href="?page=64">64</a>
+
+
+
+
+<span>65</span>
+
+
+
+
+<a href="?page=66">66</a>
+
+
+
+
+<a href="?page=67">67</a>
+
+
+</li>			
+<li class="link_last">&nbsp;
+
+<a href="?page=66">Next</a>
+</li>
+</ul></section>
+
+
+
+
+</div>
+<section id="pagebox">
+<div class="fb-page" data-href="https://www.facebook.com/focussoundjp" data-width="290" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/focussoundjp"><a href="https://www.facebook.com/focussoundjp">FocusSound</a></blockquote></div></div>
+</section>
+
+<footer>
+<nav>
+<a href="/about/">About Us</a>
+<a href="/sitepolicy/">Site Policy</a>
+<a href="/privacy/">Privacy Policy</a>
+<a href="/contact_sp/">Contact</a>
+</nav>
+<p id="copy">Copyright &copy; 2017 bootscafe INC. all rights reserved.</p>
+</footer>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+</body>
+</html>

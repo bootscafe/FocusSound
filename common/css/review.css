@@ -1,0 +1,159 @@
+@charset "utf-8";
+
+#reviewtop {margin-top:30px;}
+#reviewtop h2,#review h2#reviewtitle {font-family:times;font-size:62px;line-height:62px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:30px;}
+h2 span,strong span,h3 span {background-color:#FFF;padding-right:20px;}
+#reviewtop #topside {width:895px;float:left;}
+#reviewtop #topside dl dt {width:320px;}
+#reviewtop #topside dl dd {width:575px;letter-spacing:1px;}
+#reviewtop #topside dl dd strong {font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;font-size:24px;font-weight:bold;}
+#reviewtop #topside dl dd small {font-size:18px;display:block;margin-top:20px;}
+#reviewtop #topside dl dd p {margin:30px 0 0 0;font-size:16px;}
+#reviewtop #topside dl img {width:300px;}
+#reviewtop #glamside {width:300px;float:right;}
+
+#reviewlist {margin:40px 0 0 0;position:relative;letter-spacing:-.40em;}
+.reviewcategory {margin:40px 0;letter-spacing:-.40em;}
+#reviewlist h2,.reviewcategory h2 {letter-spacing:0px;font-family:times;font-size:36px;line-height:36px;background:url(../img/parts/dot.gif) repeat-x 0 center;}
+
+#reviewlist ul {box-sizing:border-box;padding:0 10px;vertical-align:top;letter-spacing:normal;width:25%;display:inline-block;margin-bottom:40px;}
+#reviewlist ul li {text-align:center;list-style: none;}
+#reviewlist ul li .img {position:relative;width:80%;margin:auto;border-radius:100%;overflow:hidden;}
+#reviewlist ul li .img .name {position:absolute;width:100%;bottom:20px;left:0;text-align:center;}
+#reviewlist ul li .img .name > span {border-radius:20px;font-size:16px;display:inline-block;padding:7px 20px;line-height:20px;background-color:rgba(0,0,0,0.6);color:#FFF;}
+#reviewlist ul li img {max-width:100%;}
+#reviewlist ul li strong {text-align:left;font-size:16px;margin-top:20px;}
+#allreview {letter-spacing:normal;position:absolute;top:0;right:0;font-size:14px;}
+#allreview a {display:block;color:#FFF;font-family:times;background:#cb2421 url(../img/parts/cusor_white.gif) no-repeat 10px center;padding-left:20px;padding:5px 20px;}
+#allreview a:hover {background-color:#000;}
+#reviewlist .list,.reviewcategory .list {margin-top:50px;}
+
+.category {text-align:center;box-sizing:border-box;padding:0 10px;vertical-align:top;letter-spacing:normal;width:25%;display:inline-block;margin-bottom:40px;}
+.category li {list-style: none;}
+.category .img {position:relative;width:80%;margin:auto;border-radius:100%;overflow:hidden;}
+.category .img img {width:100%;height:auto;}
+.category .img .count {position:absolute;width:100%;bottom:20px;left:0;text-align:center;}
+.category .img .count > span {border-radius:20px;font-size:16px;display:inline-block;padding:7px 20px;line-height:20px;background-color:rgba(0,0,0,0.6);color:#FFF;}
+.category strong {text-align:center;font-size:16px;margin-top:20px;display:block;}
+.category h3 a {background:url(/common/img/parts/cusor.gif) no-repeat 0 center;padding-left:10px;}
+
+/*review detail*/
+
+#review {padding:0 0 0 10px;}
+
+#detail {position:relative;}
+#detail:after {
+   content: ".";
+   display: block;
+   clear: both;
+   height: 0;
+   visibility: hidden;
+   line-height:0;
+}
+
+#detail {
+	margin-top:40px;
+	font-family:'QuickSand', "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo , Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:16px;
+}
+
+#detail .profile {font-size:14px;margin-left:20px;margin-bottom:20px;border:1px solid #CCC;padding:20px;float:right;width:45%;}
+#detail .profile h4 {margin-top:30px;font-size:18px;}
+#detail .profile strong {display:block;font-family:'times';font-size:26px;}
+#detail p {margin-bottom:20px;}
+.detail .detail blockquote {margin:0;}
+#detail .url {margin-bottom:20px;}
+#detail a {
+	font-family:'QuickSand';
+	color:#cb2421;
+	text-decoration: underline;
+}
+#detail .url a {font-size:16px;font-family:'QuickSand';color:#cb2421;}
+.detail strong a:hover {color:#f47c7a;}
+
+#disc-detail figure {display:block;text-align:center;}
+#disc-detail figure img {width:300px;}
+#disc-detail h2 {margin-top:25px;font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;font-size:36px;}
+#disc-detail h3 {margin-top:5px;font-size:21px;color:#666;letter-spacing:1px;}
+
+#songtag {margin:20px 0 40px 0;}
+#songtag div {min-height:150px;}
+#songtag #songlist {margin:40px 0;}
+#songtag #songlist strong {margin-bottom:20px;font-size:36px;line-height:1;font-family:'times';padding:15px 10px;border-bottom:1px solid #CCC;border-top:1px solid #CCC;}
+
+#songtag #songlist ol {
+	letter-spacing:-.40em;
+	margin-left:40px;
+}
+
+
+#songtag #songlist li {
+	display: list-item;
+	list-style: decimal outside;
+	box-sizing:border-box;
+	line-height:1.8;
+	font-size:16px;
+	letter-spacing:1px;
+	vertical-align:top;
+}
+
+#songlist:after {
+   content: ".";
+   display: block;
+   clear: both;
+   height: 0;
+   visibility: hidden;
+   line-height:0;
+}
+
+#instruments {margin-top:15px;text-align: center;}
+#instruments a {background-color:#F2F2F2;letter-spacing:1px;padding:0 15px;border-radius:32px;display:inline-block;line-height:32px;margin:0 10px;font-size: 14px;}
+#instruments a:hover {background-color:#333;color:#FFF;}
+
+#purchase {
+	margin: 40px 0;
+	text-align: center;
+	letter-spacing: -.40em;
+}
+
+#purchase li {
+	display:inline-block;
+	letter-spacing: 1px;
+	font-family: 'QuickSand';
+	box-sizing: border-box;
+	padding:0 10px;
+	line-height: 1;
+}
+
+#purchase li > a {
+	border-radius:3px;
+	color:#FFF;	
+	border:2px solid #cb2421;
+	color: #cb2421;
+	display:block;
+	font-size:16px;
+	line-height:1;
+	box-sizing:border-box;
+	padding: 10px;
+}
+
+#artistdisc {margin:40px 0 0 0;}
+#artistdisc strong,#youtube strong,#amazon strong {letter-spacing:1px;font-size:36px;line-height:36px;font-family:times;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:40px;}
+
+#artistdisc,#amazon {letter-spacing:-.40em;}
+#artistdisc ul,#amazon ul {letter-spacing:1px;box-sizing:border-box;padding:0 7px;margin-bottom:10px;display:inline-block;width:20%;}
+#artistdisc ul li {list-style: none;}
+#artistdisc ul img,#amazon ul img {width:100%;}
+
+
+#relativereview ul {box-sizing:border-box;padding:0 5px;vertical-align:top;margin-bottom:20px;display:inline-block;width:25%;letter-spacing:1px;}
+#relativereview ul li {list-style: none;}
+#relativereview ul li:first-child {text-align: center;margin-bottom:10px;}
+#relativereview ul img {max-width:100%;}
+
+#youtube,#amazon,#soundcloud,#video {margin-top:60px;}
+#youtube dl {width:148px;float:left;margin:5px 10px 10px 10px;}
+#youtube dl dt img {width:148px;}
+#youtube dl dd {margin-top:10px;}
+
+#soundcloud iframe,#video iframe {width:100%;border:none;height:370px;}

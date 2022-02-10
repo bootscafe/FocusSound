@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<title>すべてのセレクト | FocusSound</title>
+<meta name="keywords" content="CD,ダウンロード,癒し,ドライブ,オフィス,ランキング">
+<meta name="description" content="Focussoundでセレクトされたすべての記事一覧です。">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="/common_sp/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/common_sp/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/common_sp/js/common.js"></script>
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="//apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+<link rel="stylesheet" href="/common_sp/css/index.css">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<link rel="stylesheet" href="/common_sp/css/select.css" type="text/css">
+<meta property="og:title" content="すべてのセレクト">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://focussound.jp/select/archives/">
+<meta property="og:image" content="http://focussound.jp/common/img/parts/logo.jpg">
+<meta property="og:site_name" content="FocusSound">
+<meta property="og:description" content="Focussoundでセレクトされたすべての記事一覧です。">
+<meta property="fb:pages" content="119623658067547">
+<meta property="fb:app_id" content="357632844282822">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@focussound">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</head>
+<body id="top">
+<div id="fb-root"></div>
+<div id="wrap">
+<nav id="g-nav">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+<li><a href="/feature/">Feature</a></li>
+<li><a href="/event/">Event</a></li>
+</ul>
+</nav>
+
+<section id="search">
+<h2>フリーワードから記事を探す</h2>
+<form name="freeword" action="/search/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）レストラン　BGM">
+<input id="button-search" class="search-submit" onclick="document.freeword.submit();ga('send', 'event', 'フリーワード', '検索', 'SP');" type="submit" value="Search">
+</form>
+
+<h2>楽器から音楽を探す</h2>
+<form name="instruments" action="/instruments/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）ギター">
+<input id="button-search" class="search-submit" onclick="document.instruments.submit();ga('send', 'event', 'タグ検索', '検索', 'SP');" type="submit" value="Search">
+</form>
+</section>
+
+<header>
+<div id="logo"><a href="/"><img src="/common_sp/img/parts/logo.png" alt="FoucusSound"></a></div>
+<a id="menu-btn" href="javascript:void(0);">MENU</a>
+<a id="search-btn" href="javascript:void(0);">SEARCH</a>
+</header>
+
+<h1 id="blog-name">Select</h1>
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+<section id="archive" class="newlist">
+<h1>All Selects</h1>
+
+<a href="https://focussound.jp/select/2010/05/bgm-3.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/unleft.jpg" alt="作業中のBGM（音楽）"></dt>
+<dd>作業中のBGM（音楽）</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/05/post-31.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/kokoro.jpg" alt="ストレスを発散させるときに聴く音楽"></dt>
+<dd>ストレスを発散させるときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/05/post-30.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/african.jpg" alt="晴れた日に聴きたい音楽"></dt>
+<dd>晴れた日に聴きたい音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-29.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/monden.jpg" alt="ミュージシャン「門伝義文」が選ぶ食事に合う音楽"></dt>
+<dd>ミュージシャン「門伝義文」が選ぶ食事に合う音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-28.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/sunrise.jpg" alt="何もする気がしないときに聴く音楽"></dt>
+<dd>何もする気がしないときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-27.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/everydayis.jpg" alt="プレゼントとして贈りたい音楽"></dt>
+<dd>プレゼントとして贈りたい音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-26.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/katoh.jpg" alt="インテリアデザイナー「加藤淳一」が選ぶ結婚式の音楽"></dt>
+<dd>インテリアデザイナー「加藤淳一」が選ぶ結婚式の音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-25.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/harunouta.jpg" alt="春に聴く音楽"></dt>
+<dd>春に聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-24.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/beforeiforget.jpg" alt="田舎で聴きたくなる音楽"></dt>
+<dd>田舎で聴きたくなる音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-23.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/portent.jpg" alt="元気になりたいときに聴く音楽"></dt>
+<dd>元気になりたいときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-22.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/place.jpg" alt="雨の日のときに聴く音楽"></dt>
+<dd>雨の日のときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-21.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/immorate.jpg" alt="通勤・通学のときに聴く音楽"></dt>
+<dd>通勤・通学のときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/bgm-2.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/lightning.jpg" alt="お酒に合う音楽"></dt>
+<dd>お酒に合う音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-20.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/velo.jpg" alt="お風呂で聴く音楽"></dt>
+<dd>お風呂で聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-19.html">
+<dl>
+<dt><img src="https://focussound.jp/select/upload/ravel.jpg" alt="子供の成長記録（映像）のBGM"></dt>
+<dd>子供の成長記録（映像）のBGM</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-18.html">
+<dl>
+<dt><img src="" alt="キッチンで料理を作るときの音楽"></dt>
+<dd>キッチンで料理を作るときの音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-17.html">
+<dl>
+<dt><img src="" alt="朝に聴く音楽"></dt>
+<dd>朝に聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-16.html">
+<dl>
+<dt><img src="" alt="睡眠のときに聴く音楽"></dt>
+<dd>睡眠のときに聴く音楽</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/bgm-1.html">
+<dl>
+<dt><img src="" alt="ヘアサロンでかけるBGM"></dt>
+<dd>ヘアサロンでかけるBGM</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/04/post-15.html">
+<dl>
+<dt><img src="" alt="楽しいときに聴く音楽"></dt>
+<dd>楽しいときに聴く音楽</dd>
+</dl>
+</a>
+</section>
+
+
+
+<section class="content-nav"><ul class="clear">
+<li class="link_first">
+
+<a class="prev" href="?page=6">Prev</a>
+&nbsp;</li>
+<li class="link_page">		
+
+
+
+			
+
+
+
+			
+
+
+
+			
+
+
+
+<a href="?page=4">4</a>
+
+
+
+
+<a href="?page=5">5</a>
+
+
+
+
+<a href="?page=6">6</a>
+
+
+
+
+<span>7</span>
+
+
+
+
+<a href="?page=8">8</a>
+
+
+</li>			
+<li class="link_last">&nbsp;
+
+<a href="?page=8">Next</a>
+</li>
+</ul></section>
+
+
+
+
+</div>
+<section id="pagebox">
+<div class="fb-page" data-href="https://www.facebook.com/focussoundjp" data-width="290" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/focussoundjp"><a href="https://www.facebook.com/focussoundjp">FocusSound</a></blockquote></div></div>
+</section>
+
+<footer>
+<nav>
+<a href="/about/">About Us</a>
+<a href="/sitepolicy/">Site Policy</a>
+<a href="/privacy/">Privacy Policy</a>
+<a href="/contact_sp/">Contact</a>
+</nav>
+<p id="copy">Copyright &copy; 2016 bootscafe INC. all rights reserved.</p>
+</footer>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<title>すべてのレビュー | FocusSound</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="/common_sp/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/common_sp/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/common_sp/js/common.js"></script>
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="//apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+<link rel="stylesheet" href="/common_sp/css/index.css">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<link rel="stylesheet" href="/common_sp/css/review.css">
+<meta property="og:title" content="すべてのレビュー">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://focussound.jp/review/archives/">
+<meta property="og:image" content="http://focussound.jp/common/img/parts/logo.jpg">
+<meta property="og:site_name" content="FocusSound">
+<meta property="og:description" content="">
+<meta property="fb:pages" content="119623658067547">
+<meta property="fb:app_id" content="357632844282822">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@focussound">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</head>
+<body id="top">
+<div id="fb-root"></div>
+<div id="wrap">
+<nav id="g-nav">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+<li><a href="/feature/">Feature</a></li>
+<li><a href="/event/">Event</a></li>
+</ul>
+</nav>
+
+<section id="search">
+<h2>フリーワードから記事を探す</h2>
+<form name="freeword" action="/search/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）レストラン　BGM">
+<input id="button-search" class="search-submit" onclick="document.freeword.submit();ga('send', 'event', 'フリーワード', '検索', 'SP');" type="submit" value="Search">
+</form>
+
+<h2>楽器から音楽を探す</h2>
+<form name="instruments" action="/instruments/" method="get" role="search">
+<input id="textfield" name="search" type="text" value="" placeholder="例）ギター">
+<input id="button-search" class="search-submit" onclick="document.instruments.submit();ga('send', 'event', 'タグ検索', '検索', 'SP');" type="submit" value="Search">
+</form>
+</section>
+
+<header>
+<div id="logo"><a href="/"><img src="/common_sp/img/parts/logo.png" alt="FoucusSound"></a></div>
+<a id="menu-btn" href="javascript:void(0);">MENU</a>
+<a id="search-btn" href="javascript:void(0);">SEARCH</a>
+</header>
+
+<h1 id="blog-name">Review</h1>
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+<section id="archive" class="newlist">
+<h1>All Reviews</h1>
+
+<a href="https://focussound.jp/review/2011/05/a-colour-for-autumn.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/acolourforautumn.jpg" alt="A Colour for Autumn"></dt>
+<dd>A Colour for Autumn</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/05/stepping-into-the-dark.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/steppingintothedark.jpg" alt="Stepping Into the Dark"></dt>
+<dd>Stepping Into the Dark</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/the-wounded-beat.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/thewoundedbeat.jpg" alt="The Wounded Beat"></dt>
+<dd>The Wounded Beat</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/letter-of-sounds.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/letterofsounds.jpg" alt="Letter of Sounds"></dt>
+<dd>Letter of Sounds</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/an4rm.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/an4rm.jpg" alt="An4rm"></dt>
+<dd>An4rm</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/freedom-no-go-die.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/freedomnogodie.jpg" alt="Freedom No Go Die"></dt>
+<dd>Freedom No Go Die<small>The Souljazz Orchestra</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/jazz-trompinette.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/jazzandtrom.jpg" alt="Jazz & Trompinette"></dt>
+<dd>Jazz & Trompinette<small>Boris Vian</small></dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/post-66.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/fusen.jpg" alt="素晴らしい風船旅行"></dt>
+<dd>素晴らしい風船旅行</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/a-new-chance.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/newchance.jpg" alt="A New Chance"></dt>
+<dd>A New Chance</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/this-is-it-and-i-am-it-and-you-are-it-and-so-is-that-and-he-is-it-and-she-is-it-and-it-is-it-and-tha.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/thisis.jpg" alt="This Is It and I Am It and You Are It and So Is That and He Is It and She Is It and It Is It and That Is That"></dt>
+<dd>This Is It and I Am It and You Are It and So Is That and He Is It and She Is It and It Is It and That Is That</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/-1956710731-asp.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/goman.jpg" alt="Go Man !"></dt>
+<dd>Go Man !</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/noisy-silence---gentle-noise.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/noiseysilince.jpg" alt="Noisy Silence - Gentle Noise"></dt>
+<dd>Noisy Silence - Gentle Noise</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/santigold.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/santigood.jpg" alt="Santigold"></dt>
+<dd>Santigold</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/04/lungs.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/lungs.jpg" alt="Lungs"></dt>
+<dd>Lungs</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/13water.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/13water.jpg" alt="13の水"></dt>
+<dd>13の水</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/satie-piano-works-2.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/pianoworkssatie.jpg" alt="Satie : Piano Works"></dt>
+<dd>Satie : Piano Works</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/endless-planets.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/endlessplanets.jpg" alt="Endless Planets"></dt>
+<dd>Endless Planets</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/post-65.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/heyaame.jpg" alt="部屋、音楽が溶けて"></dt>
+<dd>部屋、音楽が溶けて</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/layer-forest.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/layerforest.jpg" alt="Layer Forest"></dt>
+<dd>Layer Forest</dd>
+</dl>
+</a>
+
+
+
+<a href="https://focussound.jp/review/2011/03/secrets-of-the-lake-foreign-sun.html">
+<dl>
+<dt><img src="https://focussound.jp/review/upload/secretsofthelake.jpg" alt="Secrets of the Lake / Foreign Sun"></dt>
+<dd>Secrets of the Lake / Foreign Sun</dd>
+</dl>
+</a>
+</section>
+
+
+
+<section class="content-nav"><ul class="clear">
+<li class="link_first">
+
+<a class="prev" href="?page=23">Prev</a>
+&nbsp;</li>
+<li class="page">		
+
+
+
+			
+
+
+
+			
+
+
+
+			
+
+
+
+<a href="?page=22">22</a>
+
+
+
+
+<a href="?page=23">23</a>
+
+
+
+
+<span>24</span>
+
+
+
+
+<a href="?page=25">25</a>
+
+
+
+
+<a href="?page=26">26</a>
+
+
+</li>			
+<li class="link_last">&nbsp;
+
+<a href="?page=25">Next</a>
+</li>
+</ul></section>
+
+
+
+
+</div>
+<section id="pagebox">
+<div class="fb-page" data-href="https://www.facebook.com/focussoundjp" data-width="290" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/focussoundjp"><a href="https://www.facebook.com/focussoundjp">FocusSound</a></blockquote></div></div>
+</section>
+
+<footer>
+<nav>
+<a href="/about/">About Us</a>
+<a href="/sitepolicy/">Site Policy</a>
+<a href="/privacy/">Privacy Policy</a>
+<a href="/contact_sp/">Contact</a>
+</nav>
+<p id="copy">Copyright &copy; 2017 bootscafe INC. all rights reserved.</p>
+</footer>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+</body>
+</html>

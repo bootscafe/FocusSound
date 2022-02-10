@@ -1,0 +1,262 @@
+@charset "utf-8";
+
+#contents.top {margin-top:10px;}
+
+#check {width:675px;float:left;}
+#check a {position:relative;top:255px;left:30px;text-indent:-9999px;display:block;width:63px;21px;background:url(/common/img/home/check.gif) no-repeat top left;}
+#check a:hover {background-position:0 -27px;}
+
+#ranking {
+	margin-top: 40px;
+	text-align: center;
+}
+
+#ranking h3 {
+	font-family: 'times';
+	font-size: 24px;
+	margin-bottom: 40px;
+	line-height: 1;
+	padding:15px 0;
+	border-top:1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+}
+
+
+.rank-wrapper {
+	text-align: center;
+	letter-spacing: -.40em;
+}
+
+.rank-wrapper a {
+	letter-spacing: normal;
+	display: inline-block;
+	width: 16.66666666666667%;
+	box-sizing: border-box;
+	vertical-align: top;
+	padding: 0 5px;
+}
+
+.rank-wrapper a figure {
+	overflow: hidden;
+	display: block;
+	position: relative;
+}
+
+.rank-wrapper a figure > span {
+	display: inline-block;
+	background-color: rgba(0,0,0,0.5);
+	color: #FFF;
+	text-align: center;
+	line-height: 1;
+	border: 1px solid rgba(255,255,255,0.7);
+	padding: 4px 10px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-family: 'QuickSand';
+	font-size: 21px;
+}
+
+.rank-wrapper a figure figcaption {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+.rank-wrapper a figure .img img {
+	max-width: 100%;
+}
+
+
+
+#newlist {margin-top:80px;}
+#newlist h2 {font-family:times;font-size:42px;line-height:1;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:20px;}
+#newlist h2 span {display:inline-block;background-color:#FFF;padding-right:20px;line-height:42px;}
+
+#newlist article {
+	letter-spacing: -.40em;	
+}
+
+#newlist article figure {
+	width:245px;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+}
+
+#newlist article figure .img {
+	overflow: hidden;
+}
+
+#newlist article figure span {
+	display: block;
+	position: absolute;
+	bottom:0;
+	left:0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.6);
+	color:#FFF;
+	line-height: 1;
+	padding: 10px;
+	letter-spacing: 2px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#newlist article .info date {
+	display: block;
+	line-height: 1;
+	letter-spacing: 1px;
+	font-family: 'QuickSand';
+}
+
+#newlist article figure .img img {
+	max-width: 100%;
+}
+
+#newlist article .info {
+	width:330px;
+	display: inline-block;
+	vertical-align: top;
+	letter-spacing: 1px;
+	padding-left: 22px;
+}
+
+#newlist article .info strong {
+	display: block;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size:21px;
+	font-weight: bold;
+}
+
+#newlist article .info p {
+	margin-top: 20px;
+}
+
+#newselect {width:597px;float:left;}
+#newreview {width:597px;float:right;}
+
+
+#regular {margin-top:30px;letter-spacing:-.40em;}
+#regular h2 {font-family:times;font-size:28px;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:40px;}
+#regular h2 span {background-color:#FFF;padding-right:20px;}
+#regular > #select,
+#regular > #event {vertical-align:top;box-sizing:border-box;width:50%;display:inline-block;padding-right:15px;}
+#regular #event {padding-right:0;padding-left:15px;}
+#regular article {box-sizing:border-box;padding-right:10px;vertical-align:top;margin-bottom:10px;width:33.3333333333333333333333%;display:inline-block;letter-spacing:2px;word-break:break-all;}
+#regular article .img {position: relative;}
+#regular article .img img {width:100%;}
+#regular article figure figcaption {margin-top:10px;}
+#regular article figure strong {display:block;letter-spacing:0px;font-weight:bold;}
+#regular article figure figcaption strong {font-size:14px;margin-top:5px;font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;}
+
+#regular article figure .img > date {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	text-align:center;
+	display:block;
+	font-family: 'QuickSand';
+	letter-spacing: 1px;
+	background-color: rgba(0,0,0,0.6);
+	color: #FFF;
+	padding: 7px 0;
+	line-height: 1;
+	box-sizing: border-box;
+}
+
+#regular article figure .img > p {
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+	text-align:center;
+	display:block;
+	font-family: 'QuickSand';
+	letter-spacing: 1px;
+	background-color: rgba(0,0,0,0.6);
+	color: #FFF;
+	font-size: 12px;
+	padding: 7px 0;
+	line-height: 1;
+	box-sizing: border-box;
+}
+
+#regular .more {
+	margin-top:20px;
+}
+
+
+
+
+#news-feature {margin-top:35px;margin-bottom:50px;letter-spacing:-.40em;}
+#news-feature div > h2 {letter-spacing:normal;background:url(../img/parts/dot.gif) repeat-x 0 center;margin-bottom:45px;font-size:42px;line-height:1;font-family:times;}
+#news-feature div > h2 span {display:inline-block;background-color:#FFF;padding-right:20px;line-height:42px;}
+#news-feature .more-news-feature {letter-spacing:normal;font-size:14px;font-family:times;}
+#news-feature .more-news-feature a {display:block;background:url(../img/parts/cusor.gif) no-repeat 0 center;padding-left:10px;}
+#news-feature p {font-size:16px;margin-top:10px;letter-spacing:1px;}
+#news-feature #news,
+#news-feature #feature {vertical-align:top;position:relative;box-sizing:border-box;width:50%;padding-right:15px;display:inline-block;}
+#news-feature #feature {padding-left:15px;padding-right:0;}
+#news-feature .news-list a,
+#news-feature .feature-list a {min-height:300px;vertical-align:top;box-sizing:border-box;padding:0 10px;width:33.3333333333333333333333333333333333%;display:inline-block;margin-bottom:30px;}
+
+
+#news-feature figure {letter-spacing:-.40em;font-family: 'QuickSand', "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo , Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+#news-feature figure .img {position:relative;border:1px solid #CCC;margin-bottom:20px;overflow:hidden;vertical-align:top;text-align:center;box-sizing:border-box;}
+#news-feature figure .img img {width:100%;}
+#news-feature figure figcaption {vertical-align:top;letter-spacing:normal;}
+#news-feature figure figcaption strong {font-size:16px;line-height:1.4;margin-bottom:10px;}
+#news-feature figure .img span.name {
+	line-height:1;
+	font-size:12px;
+	padding: 7px 0;
+	letter-spacing:1px;
+	background-color:rgba(0,0,0,0.6);
+	color:#FFF;
+	position:absolute;
+	display:block;
+	text-align:center;
+	box-sizing: border-box;
+	top:0;
+	left:0;
+	width: 100%;
+}
+
+.more a {letter-spacing:0px;background-color:#cb2421;display:block;font-weight:normal;font-family:times;font-size:18px;color:#FFF;padding:0 10px;height:35px;line-height:35px;text-align:center;}
+.more a:hover {background-color:#000;}
+
+#brand-panel {
+	position: relative;
+	height: 300px;
+}
+
+#glam-sidebar {
+	position:absolute;
+	width:325px;
+	height:250px;
+	top:50%;
+	margin-top:-125px;
+	right:0;
+	z-index:1;
+	display:block;
+}
+
+#mainbanner {
+	position:relative;
+	margin-top:25px;
+	height: 300px;
+	width: 100%;
+	background-color:#000;
+	overflow: hidden;
+	padding: 0;
+}
+
+#mainbanner img {
+	position: absolute;
+	top: 0;
+	left 0;
+	display: block;
+	max-width: 100%;
+}

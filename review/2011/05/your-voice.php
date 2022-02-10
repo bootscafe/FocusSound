@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Your Voice | sokif | Review | FocusSound</title>
+<meta name="viewport" content="width=1240,initial-scale=1">
+<meta name="keywords" content="sokif,エレクトロニカ,CD,ダウンロード" />
+<meta name="description" content="2010年12月15日に3タイトルが再発されRebirth(再生)したRevirth。2006年8月にNUMB"空"が発表されて以来4年半振り、Revirth再始動第一弾となるニューリリースが決定!!!霧の薄靄の向こうから響く、儚くも強靱な" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://focussound.jp/review/2011/05/your-voice.php" />
+<meta name="google-site-verification" content="5LrgruYUqzyl-mhTVQUauznBORQnKrboOeCCVDWXYdc">
+<link rel="stylesheet" href="/common/css/index.css" type="text/css" /><?php echo "\n" ?>
+<script src="//www.google.com/jsapi?key=ABQIAAAAEZc8JvpMDDtL-zuDY_4gxxSGBHj1hxXgB_bgP2vepJO-fAQemxTtPJCnm3M87yePQUta8Pooc44CZQ" type="text/javascript"></script>
+<script type="text/javascript">google.load("jquery", "1.7.1");</script>
+<script type="text/javascript" src="/common/js/google.js"></script>
+<script type="text/javascript" src="/common/js/sidemenu.js"></script>
+<script type="text/javascript" src="/common/js/rollover.js"></script>
+<script type="text/javascript" src="/common/js/window.js"></script>
+<script type="text/javascript" src="/common/js/footerFixed.js"></script>
+<meta name="viewport" content="width=1100">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<?php echo "\n" ?>
+<link rel="stylesheet" href="/common/css/review.css" type="text/css" />
+<link rel="stylesheet" href="/common/js/sbox/shadowbox.css" type="text/css" />
+<script type="text/javascript" src="/common/js/review.js"></script>
+<script type="text/javascript" src="/common/js/sbox/shadowbox.js"></script>
+<script type="text/javascript" src="/common/js/sbox/option.js"></script>
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/review/atom.xml" />
+<meta property="og:title" content="Your Voice" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://focussound.jp/review/2011/05/your-voice.php" />
+<meta property="og:image" content="http://focussound.jp/review/upload/yourvoice.jpg" />
+<meta property="og:site_name" content="FocusSound" />
+<meta property="og:description" content="2010年12月15日に3タイトルが再発されRebirth(再生)したRevirth。2006年8月にNUMB"空"が発表されて以来4年半振り、Revirth再始動第一弾となるニューリリースが決定!!!霧の薄靄の向こうから響く、儚くも強靱な" />
+<meta property="fb:app_id" content="357632844282822" />
+<script type="text/javascript" src="/common/js/analytics.js"></script>
+</head>
+<body >
+<div id="fb-root"></div>
+<script type="text/javascript" src="/common/js/facebook.js"></script>
+<h1>Your Voice</h1>
+
+<div id="wrapper">
+<ul id="uppernav" class="clear">
+<li class="last"><a href="https://focussound.jp/contact/">Contact</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/about/">About Us</a></li>
+</ul><?php echo "\n" ?>
+<!--▽header▽-->
+<div id="header" class="clear">
+<div id="logo"><a href="/"><img src="/common/img/parts/logo.gif" alt="FocusSound" /></a></div>
+<div id="headerglam"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1006680491&adSize=728x90"></script></div>
+</div>
+<!--△header△-->
+
+<!--▽lowerhead▽-->
+<div id="lowerhead" class="clear">
+<ul id="navigation" class="clear">
+<li class="select"><a href="/select/">Select</a></li>
+<li class="review"><a href="/review/">Review</a></li>
+<li class="feature"><a href="/feature/">Feature</a></li>
+<li class="news"><a href="/news/">News</a></li>
+<li class="item"><a href="/item/">Item</a></li>
+</ul>
+
+<ul id="socialb" class="clear">
+<li class="yahoo"><a href="javascript:void window.open('http://bookmarks.yahoo.co.jp/bookmarklet/showpopup?t='+encodeURIComponent(document.title)+'&amp;u='+encodeURIComponent(location.href)+'&amp;ei=UTF-8','_blank','width=550,height=480,left=100,top=50,scrollbars=1,resizable=1',0);">Yahoo!ブックマークに登録</a></li>
+<li class="hatena"><a href="http://b.hatena.ne.jp/entry/http://focussound.jp/" target="_blank">はてなブックマーク</a></li>
+<li class="buzzurl"><a href="http://buzzurl.jp/entry/http://focussound.jp/" title="Buzzurlにブックマーク" target="_blank">Buzzurlにブックマーク</a></li>
+<li class="rss"><a href="/atom.xml">rss</a></li>
+<li class="twitter"><a href="http://twitter.com/focussound" target="_blank">twitter</a></li>
+<li class="googlebadge"><a href="https://plus.google.com/112939127918392885568" rel="publisher">Google+</a></li>
+<li class="facebook"><a href="http://www.facebook.com/focussoundjp" target="_blank">facebook</a></li>
+</ul>
+
+<div id="serach" class="clear">
+<form onsubmit="return submitQuery()"> 
+<input id="textfield" name="q" onfocus="inputFocus();" onblur="inputBlur();" autocomplete="on" /> 
+<input id="button-search" type="image" name="sa" src="/common/img/parts/button_search.gif" alt="検索" />
+</form>
+</div>
+
+</div>
+<!--△lowerhead△-->
+
+
+
+
+<!--▽contents▽-->
+<div id="contents" class="clear">
+
+<!--▽detail-nav▽-->
+<div id="detail-nav" class="clear">
+
+<!--▽breadcrumbs▽-->
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" id="breadcrumbs">
+<ul class="clear">
+<li class="firston"><a href="/" itemprop="url"><span itemprop="title">HOME</span></a></li>
+<li class="secondon"><a href="http://focussound.jp/review/" itemprop="url"><span itemprop="title">Review</span></a></li>
+<li class="third"><span itemprop="title">Your Voice</span></li>
+</ul>
+</div>
+<!--△breadcrumbs△-->
+
+<ul class="content-nav-home clear">
+<li class="previous"><a href="http://focussound.jp/review/2011/05/white-sky.php">&#139; Previous Review</a></li>
+<li class="next"><a href="http://focussound.jp/review/2011/05/oopartslost-10-years.php">Next Review &#155;</a></li>
+</ul>
+</div>
+<!--△detail-nav△-->
+
+
+
+<!--▽main▽-->
+<div id="main">
+
+<div itemscope itemtype="http://schema.org/MusicAlbum" itemref="reviewname artist-name url disc purchase"></div>
+<!--▽review▽-->
+<div id="review" class="clear">
+<h2 id="reviewtitle"><span>Review</span></h2>
+<!--▽right▽-->
+<div id="right">
+<h2 id="reviewname" itemprop="name">Your Voice</h2>
+
+
+<h3 id="artist-name"><span itemprop="byArtist">sokif</span></h3>
+<strong itemprop="url"><a itemprop="url" href="http://ekoune.org/root/artists/sokif/bio/index.html" target="_blank">http://ekoune.org/root/artists/sokif/bio/index.html</a></strong>
+<ul id="apiIconList" class="clear">
+<li id="pocket"><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="ja"></a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></li>
+<li id="tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://focussound.jp/review/2011/05/your-voice.php" data-via="focussound" data-text="Your Voice" data-lang="ja">ツイート</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+<li id="google"><g:plusone size="medium" href="http://focussound.jp/review/2011/05/your-voice.php" annotation="bubble"></g:plusone><script type="text/javascript">(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();</script></li>
+<li id="like"><fb:like send="false" layout="button_count" width="110" show_faces="false"></fb:like></li>
+</ul>
+<div id="detail" class="detail"><p>2010年12月15日に3タイトルが再発されRebirth(再生)したRevirth。2006年8月にNUMB"空"が発表されて以来4年半振り、Revirth再始動第一弾となるニューリリースが決定!!!霧の薄靄の向こうから響く、儚くも強靱なメロディ。聞けば聞くほど心の深部へ響く音楽。四つ打ちをメインとした打ち込みに絡みつく繊細で儚いメロディ、シルキーに踊り舞うヴォイスサンプル、ドラマティックな展開。従来のRevirthらしくもありRevirthらしくない音像はRevirthの再始動を宣言するに充分な仕上がり。音に真摯に向かい合って生まれた本作"your voice"。ミックスはRevirthの顔とも言うべきNUMB、マスタリングはKIMKENが務めた。"何年も前から彼の曲を聴いている。時には、仕事で共に楽曲制作をしたこともある。一貫して彼の曲に感じるのは、「優しさ」という感情だ。彼自身も礼儀正しく、好青年、という事もあるかもしれないが、gentleで、softでcalmである。荒ましいとか、下品とか、怒りとか、そういう言葉が彼の作品からは不思議と、全く浮かんでこないのである。誰しも日常で感じる不条理や矛盾に、怒りを感じているに違いない。誰しも突然の別れに、悲しみを感じているに違いない、と思ってしまう。いや、Sokif という音楽家は子供の様に純粋に、そして、音楽と共に未来を感じていたい、だけなのだと思う。このアルバムは、「ある人生の肯定的な未来(音楽)」だ。誰しも持っている、怒りや、悲しみを包む、霧のような優しさが音楽なのだ、それが未来なのだ・・・霧のような優しさに包まれて、いや、アルバムを聴き終えて、気づく。自分(あなた)が、自分(あなた)の肯定的な未来を感じるのだと・・・"（Amazon.co.jpより）</p><p class="profile">- Sokif (ソキフ)-電子音楽~商業音楽?現代音楽の狭間で独自の音楽を模索し続ける音楽家。Nirvanaに衝撃を受け、高校時代バンド活動を開始。作曲を始める。大学に進学後J.S.Bach / C.Debussyなどクラシック音楽に興味を持ち、音楽理論(和声/対位法/管弦楽法等)を修め、その流れからG.ligeti / Morton.Feldman / Luc.Ferrariなどに傾倒して行き、現代音楽の作曲を行うようになる。しかし、より自由で刺激的な場所を求め、2007年よりSokif名義にて電子音楽の制作を始める。そして同年、ヨーロッパのレーベルSound From Nowhere (lux)よりep をリリースする。その後、ヨーロッパ(ルクセンブルグ、スペイン)でのライブを行う。また、CMやWeb、映画音楽の制作、音楽講師(音楽理論、DAW)などの活動も行っている。（Amazon.co.jpより）</p></div>
+</div>
+<!--△right△-->
+
+<!--▽left▽-->
+<div id="left">
+
+<div id="disc"><img itemprop="image" src="http://focussound.jp/review/upload/yourvoice.jpg" alt="Your Voice" /></div>
+
+
+
+
+<ul id="purchase" class="purchase clear">
+
+<li class="amazon"><a itemprop="offers" href="http://www.amazon.co.jp/gp/product/B004GFDI8G/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B004GFDI8G" onClick="ga('send', 'event', 'sokif', 'Your Voice', 'Amazon');" target="_blank"><img src="/common/img/parts/amazon.gif" height="18" alt="Amazon.co,jpで購入する" /></a></li>
+<li class="itunes"><a itemprop="offers" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fyour-voice%252Fid415465765%253Fuo%253D4%2526partnerId%253D30" onClick="ga('send', 'event', 'sokif', 'Your Voice', 'iTunes');" target="_blank"><img src="/common/img/parts/itunes.gif" height="18" alt="iTunesで購入する" /></a></li>
+</ul>
+
+
+
+</div>
+<!--△left△-->
+
+</div>
+<!--△review△-->
+
+
+
+
+<div id="songtag" class="clear">
+<div id="songlist"><strong>SongList</strong><ol>
+<li>pale existance</li>
+<li>sourire</li>
+<li>scattered sound</li>
+<li>your voice</li>
+<li>girlfriend</li>
+<li>voice into the light shower</li>
+<li>bleublanc</li>
+<li>hope your wish</li>
+<li>NtoMM</li>
+<li>evening</li>
+<li>affectionate feelings</li>
+</ol></div>
+</div>
+
+<div id="comments">
+<fb:comments href="http://focussound.jp/review/2011/05/your-voice.php" num_posts="10" width="675"></fb:comments>
+</div>
+
+
+
+
+
+<!--▽relativereview▽-->
+<div id="relativereview" class="clear">
+<strong><span>Other Reviews</span></strong>
+
+
+
+
+<ul>
+<li><a href="http://focussound.jp/review/2015/01/woman-walking-in-the-shadows.php"><img src="http://focussound.jp/review/upload/womanwalkingintheshadows.jpg" alt="Woman Walking In The Shadows" /></a></li>
+<li><a href="http://focussound.jp/review/2015/01/woman-walking-in-the-shadows.php">Woman Walking In The Shadows</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2013/02/nearly-god.php"><img src="http://focussound.jp/review/upload/nearlygod.jpg" alt="Nearly God" /></a></li>
+<li><a href="http://focussound.jp/review/2013/02/nearly-god.php">Nearly God</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2012/08/destory-dream.php"><img src="http://focussound.jp/review/upload/destroydream.jpg" alt="Destory & Dream" /></a></li>
+<li><a href="http://focussound.jp/review/2012/08/destory-dream.php">Destory & Dream</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2011/11/up-life-gone-star.php"><img src="http://focussound.jp/review/upload/uplifegonestar.jpg" alt="Up Life Gone Star" /></a></li>
+<li><a href="http://focussound.jp/review/2011/11/up-life-gone-star.php">Up Life Gone Star</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/11/deutsche-grammophon-recomposed-by-jimi-tenor.php"><img src="http://focussound.jp/review/upload/deutschegrammophon.jpg" alt="Deutsche Grammophon Recomposed by Jimi Tenor" /></a></li>
+<li><a href="http://focussound.jp/review/2010/11/deutsche-grammophon-recomposed-by-jimi-tenor.php">Deutsche Grammophon Recomposed by Jimi Tenor</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/08/its-a-feedelity-affair.php"><img src="http://focussound.jp/review/upload/itsfreedelity.jpg" alt="It's a Feedelity Affair" /></a></li>
+<li><a href="http://focussound.jp/review/2010/08/its-a-feedelity-affair.php">It's a Feedelity Affair</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/08/protection.php"><img src="http://focussound.jp/review/upload/protection.jpg" alt="Protection" /></a></li>
+<li><a href="http://focussound.jp/review/2010/08/protection.php">Protection</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/08/silence.php"><img src="http://focussound.jp/review/upload/silence.jpg" alt="Silence" /></a></li>
+<li><a href="http://focussound.jp/review/2010/08/silence.php">Silence</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/06/comfort-woman.php"><img src="http://focussound.jp/review/upload/comfortwoman.jpg" alt="Comfort Woman" /></a></li>
+<li><a href="http://focussound.jp/review/2010/06/comfort-woman.php">Comfort Woman</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/06/a-once-in-a-lifetime-opportunity-best-of-silent-poets-rare-and-classics.php"><img src="http://focussound.jp/review/upload/aonecein.jpg" alt="A ONCE IN A LIFETIME OPPORTUNITY-BEST OF SILENT POETS RARE AND CLASSICS" /></a></li>
+<li><a href="http://focussound.jp/review/2010/06/a-once-in-a-lifetime-opportunity-best-of-silent-poets-rare-and-classics.php">A ONCE IN A LIFETIME OPPORTUNITY-BEST OF SILENT POETS RARE AND CLASSICS</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/06/post-43.php"><img src="http://focussound.jp/review/upload/nemo.jpg" alt="ネモ" /></a></li>
+<li><a href="http://focussound.jp/review/2010/06/post-43.php">ネモ</a></li>
+</ul>
+
+<ul>
+<li><a href="http://focussound.jp/review/2010/06/foundation-ska.php"><img src="http://focussound.jp/review/upload/foundainska.jpg" alt="Foundation Ska" /></a></li>
+<li><a href="http://focussound.jp/review/2010/06/foundation-ska.php">Foundation Ska</a></li>
+</ul>
+
+
+
+</div> 
+<!--△relativereview△-->
+
+</div>
+<!--△main△-->
+
+<div id="sidebar">
+<div id="glamside"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1006680491&adSize=300x250"></script></div><div class="list">
+<strong>Categories</strong>
+<ul><li><a href="http://focussound.jp/review/electronica/" title="エレクトロニカ">エレクトロニカ (459)</a></li>
+<li><a href="http://focussound.jp/review/ambient/" title="アンビエント">アンビエント (212)</a></li>
+<li><a href="http://focussound.jp/review/house/" title="テクノ・ハウス">テクノ・ハウス (81)</a></li>
+<li><a href="http://focussound.jp/review/classic/" title="クラシック">クラシック (60)</a></li>
+<li><a href="http://focussound.jp/review/jazz/" title="ジャズ">ジャズ (176)</a></li>
+<li><a href="http://focussound.jp/review/brasil/" title="ブラジル">ブラジル (44)</a></li>
+<li><a href="http://focussound.jp/review/acoustic/" title="アコースティック">アコースティック (167)</a></li>
+<li><a href="http://focussound.jp/review/rock/" title="ロック">ロック (165)</a></li>
+<li><a href="http://focussound.jp/review/dub/" title="レゲエ・ダブ">レゲエ・ダブ (20)</a></li>
+<li><a href="http://focussound.jp/review/pops/" title="POPS">POPS (141)</a></li>
+<li><a href="http://focussound.jp/review/hiphop/" title="Hip Hop">Hip Hop (19)</a></li>
+<li><a href="http://focussound.jp/review/rb/" title="R&B・ファンク">R&B・ファンク (84)</a></li>
+<li><a href="http://focussound.jp/review/salsa/" title="サルサ">サルサ (7)</a></li>
+<li><a href="http://focussound.jp/review/tango/" title="タンゴ">タンゴ (1)</a></li>
+<li><a href="http://focussound.jp/review/africa/" title="アフリカ">アフリカ (21)</a></li>
+<li><a href="http://focussound.jp/review/india/" title="インド">インド (1)</a></li>
+<li><a href="http://focussound.jp/review/Indonesia/" title="インドネシア">インドネシア (2)</a></li>
+<li><a href="http://focussound.jp/review/spain/" title="スペイン">スペイン (2)</a></li>
+<li><a href="http://focussound.jp/review/cuba/" title="キューバ">キューバ (8)</a></li>
+<li><a href="http://focussound.jp/review/field/" title="フィールドレコーディング">フィールドレコーディング (1)</a></li>
+<li><a href="http://focussound.jp/review/soundtrack/" title="サウンドトラック">サウンドトラック (14)</a></li>
+<li><a href="http://focussound.jp/review/modern/" title="現代音楽">現代音楽 (34)</a></li>
+<li><a href="http://focussound.jp/review/egypt/" title="エジプト">エジプト (1)</a></li>
+<li><a href="http://focussound.jp/review/hawaii/" title="ハワイ">ハワイ (1)</a></li>
+</ul>
+</div><div class="list">
+<strong>Instruments</strong>
+<ul>
+<li><a href="/review/tag/?search=女性ヴォーカル&__mode=tag&IncludeBlogs=6&limit=40&page=1">女性ヴォーカル（214）</a></li><li><a href="/review/tag/?search=ピアノ&__mode=tag&IncludeBlogs=6&limit=40&page=1">ピアノ（204）</a></li><li><a href="/review/tag/?search=ギター&__mode=tag&IncludeBlogs=6&limit=40&page=1">ギター（176）</a></li><li><a href="/review/tag/?search=男性ヴォーカル&__mode=tag&IncludeBlogs=6&limit=40&page=1">男性ヴォーカル（154）</a></li><li><a href="/review/tag/?search=電子音&__mode=tag&IncludeBlogs=6&limit=40&page=1">電子音（96）</a></li><li><a href="/review/tag/?search=サックス&__mode=tag&IncludeBlogs=6&limit=40&page=1">サックス（38）</a></li><li><a href="/review/tag/?search=ベース&__mode=tag&IncludeBlogs=6&limit=40&page=1">ベース（32）</a></li><li><a href="/review/tag/?search=ドラム&__mode=tag&IncludeBlogs=6&limit=40&page=1">ドラム（22）</a></li><li><a href="/review/tag/?search=オルガン&__mode=tag&IncludeBlogs=6&limit=40&page=1">オルガン（9）</a></li><li><a href="/review/tag/?search=環境音&__mode=tag&IncludeBlogs=6&limit=40&page=1">環境音（8）</a></li><li><a href="/review/tag/?search=エレクトリックピアノ&__mode=tag&IncludeBlogs=6&limit=40&page=1">エレクトリックピアノ（6）</a></li><li><a href="/review/tag/?search=バイオリン&__mode=tag&IncludeBlogs=6&limit=40&page=1">バイオリン（6）</a></li><li><a href="/review/tag/?search=チェロ&__mode=tag&IncludeBlogs=6&limit=40&page=1">チェロ（5）</a></li><li><a href="/review/tag/?search=ラップ&__mode=tag&IncludeBlogs=6&limit=40&page=1">ラップ（5）</a></li><li><a href="/review/tag/?search=ヴァイオリン&__mode=tag&IncludeBlogs=6&limit=40&page=1">ヴァイオリン（5）</a></li><li><a href="/review/tag/?search=ヴィブラフォン&__mode=tag&IncludeBlogs=6&limit=40&page=1">ヴィブラフォン（5）</a></li><li><a href="/review/tag/?search=オルゴール&__mode=tag&IncludeBlogs=6&limit=40&page=1">オルゴール（4）</a></li><li><a href="/review/tag/?search=フルート&__mode=tag&IncludeBlogs=6&limit=40&page=1">フルート（4）</a></li><li><a href="/review/tag/?search=グロッケン&__mode=tag&IncludeBlogs=6&limit=40&page=1">グロッケン（3）</a></li><li><a href="/review/tag/?search=ハープ&__mode=tag&IncludeBlogs=6&limit=40&page=1">ハープ（3）</a></li>
+</ul>
+</div>
+<div id="likebox">
+<fb:like-box profile_id="119623658067547" connections="10" width="300" height="300" show_faces="true" stream="false" header="false" css="http://focussound.jp/common/css/likebox.css?3"></fb:like-box>
+</div><!--▽News▽-->
+<div id="News">
+<strong><a href="/news/">一覧へ</a></strong>
+<div class="news-list">
+<dl class="clear">
+<dt><a href="http://focussound.jp/news/2015/08/night-cruising-in-tokyo-atsoup.php"><img src="http://focussound.jp/news/upload/150822.jpg" alt="night cruising in TOKYO at.落合soup" /></a></dt>
+<dd>
+<span>2015.08.19</span>
+<p><a href="http://focussound.jp/news/2015/08/night-cruising-in-tokyo-atsoup.php">night cruising in TOKYO at.落合soup</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="http://focussound.jp/news/2015/08/dmc-japan-dj-championships-2015-supported-by-kangol.php"><img src="http://focussound.jp/news/upload/dmcjapan2015_final.jpg" alt="DMC JAPAN DJ CHAMPIONSHIPS 2015 supported by KANGOL" /></a></dt>
+<dd>
+<span>2015.08.05</span>
+<p><a href="http://focussound.jp/news/2015/08/dmc-japan-dj-championships-2015-supported-by-kangol.php">DMC JAPAN DJ CHAMPIONSHIPS 2015 supported by KANGOL</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="http://focussound.jp/news/2015/06/a1-feat-nathan-fake-x-submerse-stay-home-release-party.php"><img src="http://focussound.jp/news/upload/nathan_fake.jpg" alt="A1 feat. Nathan Fake x submerse "Stay Home" Release Party" /></a></dt>
+<dd>
+<span>2015.06.16</span>
+<p><a href="http://focussound.jp/news/2015/06/a1-feat-nathan-fake-x-submerse-stay-home-release-party.php">A1 feat. Nathan Fake x submerse "Stay Home" Release Party</a></p>
+</dd>
+</dl><dl class="clear">
+<dt><a href="http://focussound.jp/news/2015/05/takashi-mori-solo-performance-in-tokyo.php"><img src="http://focussound.jp/news/uploads/takashimori.jpg" alt="Takashi Mori solo performance in TOKYO" /></a></dt>
+<dd>
+<span>2015.05.12</span>
+<p><a href="http://focussound.jp/news/2015/05/takashi-mori-solo-performance-in-tokyo.php">Takashi Mori solo performance in TOKYO</a></p>
+</dd>
+</dl><dl class="last clear">
+<dt><a href="http://focussound.jp/news/2015/05/gurun-gurun-japan-tour-2015.php"><img src="http://focussound.jp/news/upload/gurungurun.jpg" alt="Gurun Gurun Japan Tour 2015" /></a></dt>
+<dd>
+<span>2015.05.03</span>
+<p><a href="http://focussound.jp/news/2015/05/gurun-gurun-japan-tour-2015.php">Gurun Gurun Japan Tour 2015</a></p>
+</dd>
+</dl>
+</div>
+</div>
+<!--△News△--><div id="ranking">
+<h3>Ranking</h3>
+<div id="ranking">
+
+</div>
+</div>
+</div>
+<!--△sidebar△-->
+
+</div>
+<!--△contents△-->
+
+</div>
+<!--▽footer▽-->
+<div id="footer">
+
+<!--▽footerwrapper▽-->
+<div id="footerwrapper" class="clear">
+
+<!--▽footer-logo▽-->
+<div id="footer-logo">
+<div id="footerfocussound"><a href="/"><img src="/common/img/footer/footer_logo.gif" alt="FocusSound" /></a></div>
+<p id="copyright">Copyright &copy; 2010 bootscafe INC. all rights reserved.</p>
+<div id="footerlab"><a href="http://focuslab.jp/" target="_blank"><img src="/common/img/footer/footerlab.gif" alt="FocusLab" /></a></div>
+<div id="footerbootscafe"><a href="http://bootscafe.jp/" target="_blank"><img src="/common/img/footer/footerbootscafe.gif" alt="bootscafe.INC" /></a></div>
+</div>
+<!--△footer-logo△-->
+
+<!--▽footernav▽-->
+<div id="footernav">
+<ul class="clear">
+<li><a href="/">HOME</a></li>
+<li><a href="/select/">SELECT</a></li>
+<li><a href="/review/">REVIEW</a></li>
+<li class="last"><a href="/feature/">FEATURE</a></li>
+</ul>
+
+<ul class="clear">
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li class="last"><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+<!--△footernav△-->
+
+</div>
+<!--△footerwrapper△-->
+
+</div>
+<!--△footer△-->
+
+
+</body>
+</html>

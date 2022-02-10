@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+#sideselect {position:absolute;right:0;top:150px;overflow:hidden;width:336px;height:auto;padding:0;cursor:pointer;}
+#sidefeature {position:absolute;right:0;top:450px;overflow:hidden;width:336px;height:auto;padding:0;cursor:pointer;}
+
+* html #sideselect,* html #side-newfeature {text-align:left;}
+
+#open,#open2 {width:36px;display:none;}
+#sideselect .open {background:url(/common/img/side/side_select.gif) no-repeat 0 10px;}
+#sideselect .close {background:url(/common/img/side/side_select.gif) no-repeat -37px 10px;}
+
+#sidefeature .open {background:url(/common/img/side/side_feature.gif) no-repeat 0 10px;}
+#sidefeature .close {background:url(/common/img/side/side_feature.gif) no-repeat -37px 10px;}
+
+#open img.open,#open img.close {width:36px;height:234px;}
+#side-newselect,#side-newfeature {width:300px;padding:15px 0;background-color:#000;margin:0 0 0 36px;}
+#side-newselect h5,#side-newfeature h5 {margin:0 0 10px 0;font-size:12px;font-weight:normal;}
+#side-newselect h5.new,#side-newfeature h5.new {background:url(/common/img/side/new.gif) no-repeat 0 0;text-indent:35px;}
+#side-newselect h5 a,#side-newfeature h5 a {color:#FFF;}
+#side-newselect h5 a:hover,#side-newfeature h5 a:hover {color:#f47c7a;}
+#side-newselect .sideselect,#side-newfeature .sidefeature {margin:0 0 15px 0;padding:0 15px;}
+#side-newselect dl dt,#side-newfeature dl dt {width:130px;}
+#side-newselect dl dd,#side-newfeature dl dd {width:140px;color:#CCC;font-size:80%;}
+*:first-child+html #side-newselect dl dd,*:first-child+html #side-newfeature dl dd {font-size:75%;}
+* html #side-newselect dl dd,* html #side-newfeature dl dd {font-size:75%;}
+html>/**/body #side-newselect dl dd,html>/**/body #side-newfeature dl dd {font-size /*\**/: 75%\9;}
+
+#side-newselect .moreside {background-color:#cb2521;padding:5px 10px;margin:0 15px;}
+#side-newselect .moreside a {text-indent:-9999px;display:block;width:80px;height:11px;background:url(/common/img/side/side_moreselect.gif) no-repeat top left;}
+#side-newselect .moreside a:hover {background-position:0 -20px;}
+#side-newfeature .moreside {background-color:#cb2521;padding:5px 10px;margin:0 15px;}
+#side-newfeature .moreside a {text-indent:-9999px;display:block;width:86px;height:11px;background:url(/common/img/side/side_morefeature.gif) no-repeat top left;}
+#side-newfeature .moreside a:hover {background-position:0 -20px;}

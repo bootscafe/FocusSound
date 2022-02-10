@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>作業の効率を上げるダウンテンポミュージック</title>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<link href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="/css/styles.css" rel="stylesheet">
+<link rel="Shortcut Icon" href="/common/img/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/common/img/ico/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/common/img/ico/apple-touch-icon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/common/img/ico/apple-touch-icon72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/common/img/ico/apple-touch-icon114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/common/img/ico/apple-touch-icon144.png">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-842823-6', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+<script defer data-domain="focussound.jp" src="https://plausible.io/js/plausible.js"></script>
+</head>
+<body class="transition-none">
+<div class="container page">
+<div class="container-wrap">
+<div class="mobile-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mobile-btn" id="js-menu-open">
+<span></span> <span></span> <span></span>
+</div><a class="logo" href="/">FocusSound</a>
+</div>
+</div>
+</div>
+<div class="container-wrap--dummy"></div>
+<div class="top-panel" id="js-panel">
+<div class="wrap">
+<div class="wrap_float">
+<div class="mode-check">
+<input class="mode-checkbox-input" id="mode-checkbox" type="checkbox"> <label class="mode-checkbox-label" data-dark-title="Dark Mode" data-light-title="Light Mode" for="mode-checkbox"></label>
+</div>
+<div class="wrap-center">
+<a class="logo" href="/">FocusSound</a>
+<div class="menu" id="js-menu">
+<ul>
+<li><a href="/select/">Select</a></li>
+<li><a href="/review/">Review</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+</div>
+</div>
+
+<div class="page-wrap">
+<div class="page-wrap-content">
+
+<div class="breadcrumbs">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<a href="/">Home</a> / <a href="/select/">Select</a> / <span class="current">作業の効率を上げるダウンテンポミュージック</span>
+</div>
+</div>
+</div>
+
+<div class="post-single-wrap sticky-parent">
+
+<div class="share-block">
+<div class="share-block-main js-share-block-main">
+<div class="socials">
+<a onclick="window.open('https://www.facebook.com/share.php?u=https://focussound.jp/select/2010/08/post-68.html', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Facebook">
+<span class="soc-icon"><img src="/img/facebook-icon.svg" class="img-svg" alt=""></span>
+</a>
+<a onclick="window.open('https://twitter.com/share?url=https://focussound.jp/select/2010/08/post-68.html&via=focussound&text=', '', 'width=600,height=500'); return false;" href="javascript:void(0);" class="soc-link" data-title="Twitter">
+<span class="soc-icon">
+<img src="/img/twitter-soc-icon.svg" class="img-svg" alt="">
+</span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="single-header">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+<div class="post-tags">
+<a href="https://focussound.jp/select/work/" class="tag">仕事・勉強・作業</a>
+</div>
+<h1 class="page-title">作業の効率を上げるダウンテンポミュージック</h1>
+<div class="post-info">
+<div class="post-date post-info-date">15 Aug 2010</div>
+</div>
+<div class="post-description">
+<p>
+やる気が出ないときや、作業に集中できないときはやる気の出るような音楽を聴いて能率を上げてしまいましょう。気持ちを引き締め、そして集中力を高めてくれるようなダウンテンポの音楽を中心にセレクトしています。
+</p>
+</div>
+<div class="post-image-large wide">
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="single-content wp-content">
+<div class="wrap wrap-center">
+<div class="wrap_float">
+
+
+
+<a href="https://focussound.jp/review/2010/08/protection.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/protection.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Protection</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Massive Attack</span>
+</div>
+</div>
+</a>
+<p>ゆったりとしたテンポが中心のダブサウンドです。落ち着いた雰囲気に浮遊感のあるサウンドなのでリラックスした気持ちで聴くことができます。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B0009OAULQ?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B0009OAULQ" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Protection-Massive Attack']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fprotection%252Fid17401173%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Protection-Massive Attack']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/famous-places.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/famousplaces.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Famous Places</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Goldmund</span>
+</div>
+</div>
+</a>
+<p>Goldmundの新作。緊張感を保ちながら柔らかくて優しいサウンドなので何かに集中したいときに聴くのがおすすめです。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B003TTZT4Q?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003TTZT4Q" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Famous Places-Goldmund']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Ffamous-places%252Fid379877657%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Famous Places-Goldmund']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/pawel.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/pawel.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Pawel</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Pawel</span>
+</div>
+</div>
+</a>
+<p>ミニマルな音作りで頭を刺激するような音が含まれてないので、BGMとして利用するのに適しています。集中力をアップさせたいとき最適です。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B0030YQVN8?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B0030YQVN8" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Pawel-Pawel']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fpawel%252Fid350825338%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Pawel-Pawel']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/wakesleep.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/alilly.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Wake:Sleep</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>A Lily</span>
+</div>
+</div>
+</a>
+<p>静粛なサウンドの中に様々な環境音などが含まれているので空間に溶け込みやすい音楽です。何度もリピートさせて聴くと能率が上がるかもしれません。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000GFK8LA?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000GFK8LA" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Wake:Sleep-A Lily']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fwake-sleep%252Fid165024669%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Wake:Sleep-A Lily']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/kajak.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/kajak.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Kajak</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Benni Hemm Hemm</span>
+</div>
+</div>
+</a>
+<p>アコースティックでポップなやわらかいサウンド。気の抜けた雰囲気で頭が混乱しているときなどに気持ちを整理するときにおすすめです。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B000KCI7EY?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000KCI7EY" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Kajak-Benni Hemm Hemm']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fkajak%252Fid208097488%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Kajak-Benni Hemm Hemm']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/privilege.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/privilege.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Privilege</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Glitterbug</span>
+</div>
+</div>
+</a>
+<p>不思議な雰囲気を持ったエレクトロニカ作品です。リゾートにいるような気分になれる楽曲が多数収録されています。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B003BOU6SS?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003BOU6SS" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Privilege-Glitterbug']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fprivilege%252Fid371521573%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Privilege-Glitterbug']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/the-tracks-are-alive.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/tanlnology.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">The Tracks Are Alive</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Pezzner</span>
+</div>
+</div>
+</a>
+<p>強い主張もなく、かといって地味すぎないミニマルなハウス音楽。どんなシチュエーションでもプレイできるのでおすすめです。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B003K48HJE?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003K48HJE" onClick="_gaq.push(['_trackEvent', 'Amazon', 'The Tracks Are Alive-Pezzner']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fthe-tracks-are-alive%252Fid369894706%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'The Tracks Are Alive-Pezzner']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/dust.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/dust.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Dust</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Ellen Allien</span>
+</div>
+</div>
+</a>
+<p>軽快なサウンドにグルーヴ感が心地よい音楽です。何回も聴いているとアドレナリンがたくさん分泌されそうな音楽です。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B003A10KZ6?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003A10KZ6" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Dust-Ellen Allien']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fdust%252Fid370405236%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Dust-Ellen Allien']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+<a href="https://focussound.jp/review/2010/08/live-at-triple-door.html" class="post-preview-item">
+<div class="post-preview-item-cover">
+<img src="https://focussound.jp/review/upload/liveatthetriple.jpg" alt="">
+</div>
+<div class="tag">Read more</div>
+<div class="post-title">Live At Triple Door</div>
+<div class="post-info">
+<div class="post-author post-info-author">
+<span>Helios</span>
+</div>
+</div>
+</a>
+<p>Goldmundで知られる「Keith Kenniff」のライブアルバム。静粛なサウンドに緊張感のあるサウンドなので眠いときに聴くのがおすすめです。</p>
+<div class="buy" style="display: flex;column-gap: 24px">
+<a class="btn submit submit-btn" href="http://www.amazon.co.jp/gp/product/B003CIZDS6?ie=UTF8&tag=bootscafe-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003CIZDS6" onClick="_gaq.push(['_trackEvent', 'Amazon', 'Live At Triple Door-Helios']);" target="_blank">Amazon</a>
+<a class="btn submit submit-btn" href="http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Flive-at-triple-door%252Fid336699038%253Fuo%253D4%2526partnerId%253D30" onClick="_gaq.push(['_trackEvent', 'iTunes', 'Live At Triple Door-Helios']);" name="submit" value="{$button_text['send']}" target="_blank">Apple</a>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+
+
+
+<div class="see-also-section section">
+<div class="wrap">
+<div class="wrap_float">
+<h2 class="title">Related Posts</h2>
+<div class="section-content">
+<div class="see-also-items">
+<a href="https://focussound.jp/select/2010/09/1-2.html" class="post-item">
+<img src="https://focussound.jp/select/upload/ourhouse.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">時間</div>
+</div>
+<h3 class="post-title">深夜に1人で聴きたい音楽</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+18 Sep 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/08/post-70.html" class="post-item">
+<img src="https://focussound.jp/select/upload/daydreaming.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">読書しながら聴く音楽</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+18 Aug 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/08/post-68.html" class="post-item">
+<img src="https://focussound.jp/select/upload/protection.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div>
+</div>
+<h3 class="post-title">作業の効率を上げるダウンテンポミュージック</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+15 Aug 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/08/post-66.html" class="post-item">
+<img src="https://focussound.jp/select/upload/tendergrain.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">場所</div>
+</div>
+<h3 class="post-title">オフィスでかける音楽（ダンスミュージック）</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+09 Aug 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/06/post-51.html" class="post-item">
+<img src="https://focussound.jp/select/upload/ledzeppelin.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">ギターを弾きながら聴きたい音楽</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+23 Jun 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/06/ipadiphone.html" class="post-item">
+<img src="https://focussound.jp/select/upload/somethingfor.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">時間</div>
+</div>
+<h3 class="post-title">iPadやiPhoneのスピーカーで聴くジャズ</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+09 Jun 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/06/1-1.html" class="post-item">
+<img src="https://focussound.jp/select/upload/yoshimi.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">仕事・勉強・作業</div>
+</div>
+<h3 class="post-title">RENDO代表「吉見鉄平」が選ぶ1人のオフィスで聴く音楽</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+05 Jun 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/06/webbgm.html" class="post-item">
+<img src="https://focussound.jp/select/upload/tamagawa.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">仕事・勉強・作業</div>
+</div>
+<h3 class="post-title">玉川純が選ぶ「WEBデザイナー達が選ぶオフィス用」BGM</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+02 Jun 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/05/post-34.html" class="post-item">
+<img src="https://focussound.jp/select/upload/hibiya.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">セレクター</div><div class="tag">仕事・勉強・作業</div>
+</div>
+<h3 class="post-title">マーケター「日比谷尚武」が選ぶ仕事に集中したいときの音楽</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+13 May 2010
+</div>
+</div>
+</a>
+
+
+
+<a href="https://focussound.jp/select/2010/05/bgm-3.html" class="post-item">
+<img src="https://focussound.jp/select/upload/unleft.jpg" alt="" class="post-bg-img">
+<div class="post-tags">
+<div class="tag">仕事・勉強・作業</div><div class="tag">生活</div>
+</div>
+<h3 class="post-title">作業中のBGM（音楽）</h3>
+<div class="post-info">
+<div class="post-date post-info-date">
+03 May 2010
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div class="footer">
+<div class="wrap">
+<div class="wrap_float">
+<div class="footer-content">
+<div class="logo">FocusSound</div>
+<div class="wrap-center">
+<div class="socials">
+<a href="https://www.facebook.com/focussoundjp" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/facebook-icon.svg"></a>
+<a href="https://twitter.com/focussound" target="_blank" rel="noopener noreferrer" class="soc-link"><img alt="" class="img-svg" src="img/twitter-soc-icon.svg"></a>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/sitepolicy/">Site Policy</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="https://focussound.jp/contact/">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/checkmode.js"></script> 
+<script src="/js/slick.min.js"></script> 
+<script src="/js/jquery.arcticmodal.min.js"></script> 
+<script src="/js/lightgallery.js"></script> 
+<script src="/js/jquery.mousewheel.min.js"></script> 
+<script src="/js/device.min.js"></script> 
+<script src="/js/jquery.placeholder.label.js"></script> 
+<script src="/js/jquery-ui.min.js"></script> 
+<script src="/js/scripts.js"></script>
+
+</body>
+</html>
